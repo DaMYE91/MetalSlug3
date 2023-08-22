@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 1c13d84a1e46efe45a07d047a3e3a3e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 215
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71738b61679dc449b64e266f2d48e8b
+      internalID: -1321415230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 215
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9863d5a3c644ac4d92192384540c059
+      internalID: 1733209341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 215
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a23fa1e9a09a40a1a7a3590a31f11
+      internalID: 1431451997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 215
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fdb1f609637bb4487ed90ed95ae89c
+      internalID: 639073197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 214
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827489e28b9a88f4d93f37904cb32d5b
+      internalID: -516129843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 214
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d18a2558bfa07c498b4cdbe4e8a8c00
+      internalID: 69530918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 175
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c222a0e4ee0e5a04abeb8185e610d517
+      internalID: -1006204738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 175
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511525886ea697c409d7013fa413474a
+      internalID: -1473126763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 175
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59b64418f58bf4990cc47558acd110
+      internalID: -1997529941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 175
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbccda29c8a16bd4297c788c693c3f34
+      internalID: -1965173764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 176
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf204be7c1d114b950362f43978a0b
+      internalID: -1034940791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 176
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2e3bf965939634da4d6984ff136f56
+      internalID: 1992949911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 147
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82975159b62268a47babed3d8680ebc7
+      internalID: 1604058648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 141
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37188489626c60e46962d709a622cef9
+      internalID: 966848837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c1f4a38ce76d74ebc6f4d380ec79e1
+      internalID: -1835167725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 134
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f134d7703b09d4aa563a01df0e8c5a
+      internalID: -2023387972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f077da4e5efb449cf34e25518e997
+      internalID: 2015902146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 94
+        width: 4
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a14f62eebec184d8243cb998e4b35a
+      internalID: 217679553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 86
+        width: 4
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4eb050581ea3749aad578777b8d9d1
+      internalID: -718884939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 77
+        width: 4
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9fd893e1a00d844bff55bf21d5a946
+      internalID: 257545548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 4
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6af3eac6c78f742a30cf9115fe0264
+      internalID: -1703444129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 4
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973066e1f60aa7f409232e4d24aa26e8
+      internalID: -148645656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 147
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b730fc3b67161438aa53ae6ffb6d5a
+      internalID: 1694327947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 147
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b6ebdbad296e4e876cee3d77aa2c3
+      internalID: 968518763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 88
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a211507f3972458a5d4814c1c26a8
+      internalID: 49541396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38d4d61c6ba77f4c89fb46322d9f730
+      internalID: 1650521556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74565377152900a41bc4c7ad827851d0
+      internalID: -1820251521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa3de18decf7364aad617279a22f84d
+      internalID: 2006675597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_45
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 94
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6697157736e171489a10cf9e8f4746a
+      internalID: -1886680466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f065a9446ffae46b515b81f3c345e7
+      internalID: -1454736837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738051467974d647a52848ffffe9e1a
+      internalID: 1324581200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_101
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 134
+        width: 1
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57bda02d5035948acb1b12d1526065
+      internalID: -2114266927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 84
+        width: 3
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a8fa13caefc548bd46f26eb721caf
+      internalID: 1186297489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_103
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 120
+        width: 3
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ae524e2d44234c9c34bb8c66bee5f
+      internalID: 1805146111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - UFO_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 1
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed3554a2ba8cc4aae0d2801725deca
+      internalID: 1221180136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - UFO_0: -1321415230
+      Neo Geo NGCD - Metal Slug 3 - UFO_1: 1733209341
+      Neo Geo NGCD - Metal Slug 3 - UFO_10: -1034940791
+      Neo Geo NGCD - Metal Slug 3 - UFO_100: 2108499315
+      Neo Geo NGCD - Metal Slug 3 - UFO_101: -2114266927
+      Neo Geo NGCD - Metal Slug 3 - UFO_102: 1186297489
+      Neo Geo NGCD - Metal Slug 3 - UFO_103: 1805146111
+      Neo Geo NGCD - Metal Slug 3 - UFO_11: 1992949911
+      Neo Geo NGCD - Metal Slug 3 - UFO_12: 1604058648
+      Neo Geo NGCD - Metal Slug 3 - UFO_13: 966848837
+      Neo Geo NGCD - Metal Slug 3 - UFO_14: -1835167725
+      Neo Geo NGCD - Metal Slug 3 - UFO_15: -2023387972
+      Neo Geo NGCD - Metal Slug 3 - UFO_16: 2015902146
+      Neo Geo NGCD - Metal Slug 3 - UFO_17: 217679553
+      Neo Geo NGCD - Metal Slug 3 - UFO_18: -718884939
+      Neo Geo NGCD - Metal Slug 3 - UFO_19: 257545548
+      Neo Geo NGCD - Metal Slug 3 - UFO_2: 1431451997
+      Neo Geo NGCD - Metal Slug 3 - UFO_20: -1703444129
+      Neo Geo NGCD - Metal Slug 3 - UFO_21: -148645656
+      Neo Geo NGCD - Metal Slug 3 - UFO_22: 1694327947
+      Neo Geo NGCD - Metal Slug 3 - UFO_23: 968518763
+      Neo Geo NGCD - Metal Slug 3 - UFO_24: 1221180136
+      Neo Geo NGCD - Metal Slug 3 - UFO_25: 1800542186
+      Neo Geo NGCD - Metal Slug 3 - UFO_26: 1377756989
+      Neo Geo NGCD - Metal Slug 3 - UFO_27: 656423082
+      Neo Geo NGCD - Metal Slug 3 - UFO_28: -634618405
+      Neo Geo NGCD - Metal Slug 3 - UFO_29: 892067185
+      Neo Geo NGCD - Metal Slug 3 - UFO_3: 639073197
+      Neo Geo NGCD - Metal Slug 3 - UFO_30: -1489672128
+      Neo Geo NGCD - Metal Slug 3 - UFO_31: 796082554
+      Neo Geo NGCD - Metal Slug 3 - UFO_32: -1701454610
+      Neo Geo NGCD - Metal Slug 3 - UFO_33: -735482446
+      Neo Geo NGCD - Metal Slug 3 - UFO_34: 1175831577
+      Neo Geo NGCD - Metal Slug 3 - UFO_35: 2035422223
+      Neo Geo NGCD - Metal Slug 3 - UFO_36: -1353222517
+      Neo Geo NGCD - Metal Slug 3 - UFO_37: -658389378
+      Neo Geo NGCD - Metal Slug 3 - UFO_38: -1572655002
+      Neo Geo NGCD - Metal Slug 3 - UFO_39: -44262791
+      Neo Geo NGCD - Metal Slug 3 - UFO_4: -516129843
+      Neo Geo NGCD - Metal Slug 3 - UFO_40: 86198295
+      Neo Geo NGCD - Metal Slug 3 - UFO_41: 49541396
+      Neo Geo NGCD - Metal Slug 3 - UFO_42: 1650521556
+      Neo Geo NGCD - Metal Slug 3 - UFO_43: -1820251521
+      Neo Geo NGCD - Metal Slug 3 - UFO_44: 2006675597
+      Neo Geo NGCD - Metal Slug 3 - UFO_45: -1886680466
+      Neo Geo NGCD - Metal Slug 3 - UFO_46: -1454736837
+      Neo Geo NGCD - Metal Slug 3 - UFO_47: 1324581200
+      Neo Geo NGCD - Metal Slug 3 - UFO_48: 1249245607
+      Neo Geo NGCD - Metal Slug 3 - UFO_49: -36266348
+      Neo Geo NGCD - Metal Slug 3 - UFO_5: 69530918
+      Neo Geo NGCD - Metal Slug 3 - UFO_50: 1537288732
+      Neo Geo NGCD - Metal Slug 3 - UFO_51: -525489716
+      Neo Geo NGCD - Metal Slug 3 - UFO_52: 1471797730
+      Neo Geo NGCD - Metal Slug 3 - UFO_53: -193047547
+      Neo Geo NGCD - Metal Slug 3 - UFO_54: -903024917
+      Neo Geo NGCD - Metal Slug 3 - UFO_55: -1976851343
+      Neo Geo NGCD - Metal Slug 3 - UFO_56: -186927356
+      Neo Geo NGCD - Metal Slug 3 - UFO_57: -22657796
+      Neo Geo NGCD - Metal Slug 3 - UFO_58: 1279780689
+      Neo Geo NGCD - Metal Slug 3 - UFO_59: -1951334390
+      Neo Geo NGCD - Metal Slug 3 - UFO_6: -1006204738
+      Neo Geo NGCD - Metal Slug 3 - UFO_60: 71046934
+      Neo Geo NGCD - Metal Slug 3 - UFO_61: 51165667
+      Neo Geo NGCD - Metal Slug 3 - UFO_62: 791901195
+      Neo Geo NGCD - Metal Slug 3 - UFO_63: 1764513848
+      Neo Geo NGCD - Metal Slug 3 - UFO_64: -1114952369
+      Neo Geo NGCD - Metal Slug 3 - UFO_65: 2055310485
+      Neo Geo NGCD - Metal Slug 3 - UFO_66: 1869533705
+      Neo Geo NGCD - Metal Slug 3 - UFO_67: 1051191885
+      Neo Geo NGCD - Metal Slug 3 - UFO_68: 989463001
+      Neo Geo NGCD - Metal Slug 3 - UFO_69: 330602740
+      Neo Geo NGCD - Metal Slug 3 - UFO_7: -1473126763
+      Neo Geo NGCD - Metal Slug 3 - UFO_70: -396549505
+      Neo Geo NGCD - Metal Slug 3 - UFO_71: 2022182802
+      Neo Geo NGCD - Metal Slug 3 - UFO_72: 2003980167
+      Neo Geo NGCD - Metal Slug 3 - UFO_73: 2028414776
+      Neo Geo NGCD - Metal Slug 3 - UFO_74: -473655085
+      Neo Geo NGCD - Metal Slug 3 - UFO_75: 1281518641
+      Neo Geo NGCD - Metal Slug 3 - UFO_76: 1955131059
+      Neo Geo NGCD - Metal Slug 3 - UFO_77: -1200671749
+      Neo Geo NGCD - Metal Slug 3 - UFO_78: 1756888455
+      Neo Geo NGCD - Metal Slug 3 - UFO_79: 1365922829
+      Neo Geo NGCD - Metal Slug 3 - UFO_8: -1997529941
+      Neo Geo NGCD - Metal Slug 3 - UFO_80: -555402057
+      Neo Geo NGCD - Metal Slug 3 - UFO_81: 1538156960
+      Neo Geo NGCD - Metal Slug 3 - UFO_82: -719704219
+      Neo Geo NGCD - Metal Slug 3 - UFO_83: 184649333
+      Neo Geo NGCD - Metal Slug 3 - UFO_84: 1794147663
+      Neo Geo NGCD - Metal Slug 3 - UFO_85: 1552447746
+      Neo Geo NGCD - Metal Slug 3 - UFO_86: -622906008
+      Neo Geo NGCD - Metal Slug 3 - UFO_87: -1380270097
+      Neo Geo NGCD - Metal Slug 3 - UFO_88: -1071565126
+      Neo Geo NGCD - Metal Slug 3 - UFO_89: -355017894
+      Neo Geo NGCD - Metal Slug 3 - UFO_9: -1965173764
+      Neo Geo NGCD - Metal Slug 3 - UFO_90: -1953454455
+      Neo Geo NGCD - Metal Slug 3 - UFO_91: 543128342
+      Neo Geo NGCD - Metal Slug 3 - UFO_92: -1209089653
+      Neo Geo NGCD - Metal Slug 3 - UFO_93: -1407758677
+      Neo Geo NGCD - Metal Slug 3 - UFO_94: -540060993
+      Neo Geo NGCD - Metal Slug 3 - UFO_95: 1801250864
+      Neo Geo NGCD - Metal Slug 3 - UFO_96: 1785218947
+      Neo Geo NGCD - Metal Slug 3 - UFO_97: -614276134
+      Neo Geo NGCD - Metal Slug 3 - UFO_98: 92795208
+      Neo Geo NGCD - Metal Slug 3 - UFO_99: 1903923536
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

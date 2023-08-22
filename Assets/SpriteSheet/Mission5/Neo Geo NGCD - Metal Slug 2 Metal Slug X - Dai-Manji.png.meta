@@ -1,0 +1,3830 @@
+fileFormatVersion: 2
+guid: 0152d9fd7ed7de24d949a5425dd1d079
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1977
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc083cc20cf1bb4786b9009e012b471
+      internalID: -905124212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1977
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01494e437ce6042995472a3a6a49d8
+      internalID: -405843543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1977
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666edc7772cd194489bedd2c12ba133
+      internalID: 1815237589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1977
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcc893a3fc9ac44f9063b0b203f8fb5
+      internalID: -1063601447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1977
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aae3958690c694fb9c0530fe06ce1e
+      internalID: 72880829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_6
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1977
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c126c6ed50b7842818156720d9247e
+      internalID: -1499222255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1854
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bca1e5762bc844f85bd9e4610e6a5e
+      internalID: -915423399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1854
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1285f9d406e2b564fb0c5eb7924d89a8
+      internalID: -2001553417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1854
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe3db2af2bfb748999113f1fbab97f
+      internalID: -77450808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1854
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e4aa052f9101c42b0fe711666df3a4
+      internalID: -1608828658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1854
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc1c9b0bcc8b64997937106fbbfd56
+      internalID: -1815384072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1854
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3500148e7f3eb1488ffa155a6df6a62
+      internalID: -1118135314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1731
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0d3c6639345642a7135cea733bf85
+      internalID: 2089189991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1731
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91853f2aac4d8e34b97dc2528449f661
+      internalID: -115634000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1731
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d579172feded4696f6427ce28804c
+      internalID: 197107092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1731
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450f60bc3f9836647ac5a93de98bed15
+      internalID: -84668958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1731
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9438c7c38e086f44823ba2964240204
+      internalID: -1191114877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1731
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef502e51c005df49bf070d5400db61b
+      internalID: 1296514689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1608
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e856cb61fd615c45984e42a6c1afb6b
+      internalID: 1179776139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1608
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1006de05ecc7448d59a9f4e72a2d5
+      internalID: -631946003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1608
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f29743c4a5654ab1284c9bb83004e
+      internalID: -956935786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1608
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f429155dee74e43bbdac478a1981e8
+      internalID: -551295390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1608
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87259a801d20a204ba40193883a2dc83
+      internalID: 1910649278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1608
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76999cfa6e8d584589e544b9bda89e9
+      internalID: 406853459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1578
+        width: 114
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc5ee758d50d84897f7b2a98aeca5a
+      internalID: -2130647658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1433
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbfd99d53c28a4a94121f2fc641a9d
+      internalID: -425948343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1433
+        width: 148
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c8b78cb19d5542a4daab93be99155
+      internalID: -1447909919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_30
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1433
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9c45fa884385408eeb4aaab80fd16
+      internalID: 897000867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1433
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caadee932d812d241816e5d65223e75f
+      internalID: -1590074226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1433
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bca8ab8d10f4e489810eb321d20900
+      internalID: -1831110508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_33
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1433
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee482a91e787f4ea14cbc162673ed4
+      internalID: -1427033775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_34
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1296
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3540e6c25be0ab5449454c79e81f2251
+      internalID: -1470826312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1400
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ef56db211c5240939a034252f070d
+      internalID: 220219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1372
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c9438abf790248aebacdcbede18c0
+      internalID: -1220666470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1372
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9d1b77966d55f469076646c89ba45c
+      internalID: 729020228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236420a7c9b2f3c47b9f7040e12dead9
+      internalID: 1115612939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9135fea33ef24e24e831861fe2346b4d
+      internalID: 715848910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983982f5d5020ff449ee412ba56530a5
+      internalID: -1496871242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f9f01382aad1f46b99caaeb699c897
+      internalID: 416846107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_42
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc74d3630ece864d87850e43cc657a9
+      internalID: -153272239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d06b52605d4e748a30adbe1855f6e6
+      internalID: -800475431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_44
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1341
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd067461795efb142baa43df955e84ad
+      internalID: 1910339403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5537adcb42d734e8d3c3dd3a7bb702
+      internalID: -1277710617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606db6d6dfca6a1448beef9667553fcf
+      internalID: -108808959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94865ac8e4003474fa1ca998429b0626
+      internalID: 980855796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92595b4eeeb23945aa46378c5a45051
+      internalID: -128179440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_49
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497cc6eb9e9e7754495e28f1e6806ce6
+      internalID: -405906921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_50
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea82798c8a139b4881325fefb7f8a11
+      internalID: 178715530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_51
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a8660833a5a240a1382a2baf8845f
+      internalID: -1594629260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_52
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31680906495c7c04b946d17029635728
+      internalID: 990555518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_53
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1307
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff4b18062488f44a958482065b2a6e
+      internalID: -298639766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1243
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e959fbdf7d4545b86be675f0f076a
+      internalID: -1549621332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1241
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ce1613454a4649a4d2059b103d291
+      internalID: 690761648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1239
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef617fa40493f946bad1724d2e77b8b
+      internalID: 1993572885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05de97e66c976e428f68b076670260e
+      internalID: -31883892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1235
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb8049de0b1fc488ae32a03a43ca8a
+      internalID: 880194349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_64
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1233
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f133f92309bf99e4ab5c5ad588377a6f
+      internalID: 1138110193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1231
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e326e32da41c42a04f09cf31f137e
+      internalID: -1794994718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1229
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9867b91c62e904a97f9650ad13865d
+      internalID: 1850976451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1227
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a3c8601156ad47ad42c977f33088a
+      internalID: -788956662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1225
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee038546711564895a6b3805727a15
+      internalID: 1473054119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_69
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1223
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f914e6a37ba54cbe0f452213fc5db
+      internalID: 1654875538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1221
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b3899231d3144abb9ad25d2492c99
+      internalID: 1973865578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_71
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1219
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5da6fa62134dc4b8eebc55fc94fc70
+      internalID: 910502141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_72
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1217
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d715d5cf3b75d1459db0f08b9c2d7bf
+      internalID: -992037073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_73
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1216
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1985c65c50d01a440aa225fe092182e2
+      internalID: -1312183320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_74
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1239
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f1e301a811404395c1ee9eec80433
+      internalID: 153974280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1239
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfda7c4de822c2428a399f9ae7b8efe
+      internalID: -70590055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_76
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1239
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef718fb581a7674a86fe5750ca76154
+      internalID: 667979169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_77
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1239
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea29d2550ff5348befc8c60154af37
+      internalID: -1032221272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_78
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1236
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aae113292b9e043b19d68c7c2288ad
+      internalID: -1670680316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_79
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1230
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cdb3f82ee668a45ad43b52da9acfb8
+      internalID: -1577981332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_80
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1224
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a93bf0b8ef9e45a9d65b493091488
+      internalID: 1482954295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_81
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1219
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61e64bec328d7488a0f49c029ac7f4
+      internalID: -1466159392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_82
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1214
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64a77bd5c8c12419beb9c701210288
+      internalID: -211436848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_86
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1120
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a0a5eae9c5c8449a3dcf42d0bf2ad
+      internalID: 1911525573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1118
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eb467be5a74e041ad352cac7f8b904
+      internalID: 1275834032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1114
+        width: 100
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a4d1b7f92f3341b09103794fe63b6
+      internalID: 698100985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_89
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1116
+        width: 100
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5d7c84a9400e40b3d7b680f68e456
+      internalID: 559368427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_90
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1116
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac64f61db380b641a1cb8524cc32f6d
+      internalID: -1458488004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_91
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1114
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f240174cbe2446ba77335672e6084
+      internalID: -1930874448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_92
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1112
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c9599961694047b52e4353c128c75
+      internalID: 1263088193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_93
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1112
+        width: 118
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc1f660b65e37c4f896066791eb345a
+      internalID: 228446598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_94
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1050
+        width: 124
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04284b53f930c3c4f9ee9c34d21b14d3
+      internalID: -1259330575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_95
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1050
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d61d961784eb4544a7f7bcfd2708a69
+      internalID: -121728220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1048
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d681d732ad8363c46bc809cb53bae20a
+      internalID: -1265130696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_97
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1046
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01377d703736bb4cbeb43fa28b93b03
+      internalID: 1640281281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_98
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1044
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c42f2cb5098e14b87309357a369199
+      internalID: -1218189751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_99
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1044
+        width: 127
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91237b37f9a6bd48840b6fc23e10307
+      internalID: 1257589763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_100
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1042
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77b8d0715312f459d7b46dc6f03588
+      internalID: -297286984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_101
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1042
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793ffe9e57a08a45b980155fc828db5
+      internalID: -1671925873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 984
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34bce4056cf703499927e4062afebdb
+      internalID: -1263796489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_103
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 986
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3626da8bc1cf21d4fa008acf691058eb
+      internalID: 819980966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_107
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 887
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9ce6390e13f84e992e5c7c4710dd8
+      internalID: 786605462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 887
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16be3db81f3e89428c1846322b4c02d
+      internalID: 670032385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_109
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 887
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487330fb8303748419e4f79c9369ac90
+      internalID: 1567865488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_110
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 887
+        width: 78
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de462a0833af140b3080e6beeac2f1
+      internalID: -2102081360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_111
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 887
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2781368193f54d468776d21b3b4be85
+      internalID: 596836152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_112
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 887
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd95b6b7627dd42afb59e3a553db86
+      internalID: -396981201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_113
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 887
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b28ccf98184d4286e3f68df340d29
+      internalID: -193938026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_114
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 887
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4842482df22a98949bd1ae1c1f9ad0a4
+      internalID: -89807265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 766
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c997e53165b4e749b8857321178b216
+      internalID: 233531413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 770
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed36ac2729e69e489af84b27d308990
+      internalID: 61884400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_117
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 752
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf0f2310092ed244a74abe768a775df
+      internalID: 1020445502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_118
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 756
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d905855568fcdd48afc0fc6884ad6a1
+      internalID: 514224654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_121
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 692
+        width: 83
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4c7e80aa5ab7841a2da08e91347c4c
+      internalID: 426992964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_122
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 696
+        width: 83
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857cfe0fc1f16be4585813eb9871cbd6
+      internalID: -1145860780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_125
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 684
+        width: 47
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66934208d8e81c41afff45b06e0f6c9
+      internalID: 1631448663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 734
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445c1e6db30cfd240ad26e5525940e1d
+      internalID: 1203436053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_127
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 738
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fff9a63864a254aae9052b9413700b
+      internalID: -1708702373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_128
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 684
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4847d21363ee1d45a0caa4595d6076d
+      internalID: 693572892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_129
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 684
+        width: 40
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711359a401f752d48ae90e9bdd49f6c8
+      internalID: 237567030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_130
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 514
+        width: 47
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a375345c6c466c47ab0efd42c110826
+      internalID: -1831506902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_131
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 514
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3244d35cca52449bf772c457b196c
+      internalID: 1139850430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_132
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 514
+        width: 38
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891802f38f4ab849874caf670f9cb70
+      internalID: -2023551824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 514
+        width: 44
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b306f50a14e70e4a9d82bc5d7c4984d
+      internalID: -588883215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_135
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 514
+        width: 44
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c3b73f14e13144bd05f40e6d84873
+      internalID: -1407209984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_138
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 514
+        width: 37
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8d7fd3ada4a84e8ac08c8067e6c7e
+      internalID: -1388250112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_140
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 514
+        width: 37
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746b04193ec60145b803fd9e218880e
+      internalID: 1725667101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_151
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 514
+        width: 48
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9da5bb4ff60a548a1048b3001fe9e7
+      internalID: -382994447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_152
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 514
+        width: 48
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420872ba50c4fb74b929207294806cb5
+      internalID: -126409593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_153
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 467
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed322954513627947bc87ba742e8d2a3
+      internalID: 1697861156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_154
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 467
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ecce82a620f064abc637ed3a82999c
+      internalID: 1613078030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_155
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 467
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8052f9ff6ebe6ed4a98500cae290e3cc
+      internalID: -1845731950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_156
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 467
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec73cad8b88d2f4eb16a897dbc8c8a3
+      internalID: -1243161699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 398
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873e290760c7d847bac9f2769b278e2
+      internalID: 530441947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 398
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8008c0a69b5e44ab5fbebabbedbad1
+      internalID: -1606618259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_159
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 398
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c3d1b869522a4dbac5db2d5cacb14
+      internalID: -1285481512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_160
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 398
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017083a409a583d4aaacc65e7ff0cfaf
+      internalID: -83526891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_161
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 398
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fdb38faa852bd43a11c15b6e9f36c0
+      internalID: -434561564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_162
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 398
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff256277d817fbc478de0e05d6bace06
+      internalID: -648459008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_163
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 398
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1be4fa51a5f5c428070b9b78fd8911
+      internalID: -276564912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_164
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 398
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db87fe34064e484b80cb864ee11defc
+      internalID: 1656275627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_165
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 402
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23fe49e7fae19e47a621c4b665b44c5
+      internalID: 1828260654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 398
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5976fcf7fa7042bad42a6eac59aaa
+      internalID: -396399311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_167
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 398
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10d37048ab9d34a893ccec5c419e38
+      internalID: -346645878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 398
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fffd6617ae065b439cb220653915c36
+      internalID: 1169955186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_169
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf908a89071594c8bbae0c325acf6e
+      internalID: 1531412179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6428e9b5c151468fe238934838cbe
+      internalID: -1033896148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_171
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 343
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99cb49533105347989465fafc87cc2
+      internalID: -1883947814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_172
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 341
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91f69341e6c80948a9a1c9a61ff54f2
+      internalID: -1986181605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_173
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 340
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e9d77fc59509478eb718c3bea8470
+      internalID: -714948847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_174
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 338
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe024210f64cce4bb87916f5c1043cd
+      internalID: -1382956682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_175
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 337
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c2c95ab309194da51a4ca578625dc
+      internalID: -1165603096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_176
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 338
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eacecbf4cecee6469bcd24dc85971d4
+      internalID: -1686945540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_177
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 338
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba206317a2d5b84285788eb1b149881
+      internalID: -984821659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_178
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 341
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c18dc1ede3cbe469d505816a0c3404
+      internalID: 1849855236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_179
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 341
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4a2c23dbc6ef4889c1f8673996c7e
+      internalID: 1801387452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_180
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 343
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a212855f00f34bf4ea17e760a4a80d76
+      internalID: 1574876494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_181
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 342
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5295f2540eb844a2363610a485f21
+      internalID: -1732216288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_182
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 345
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5389a4536a10f6c479e99145f93b6673
+      internalID: 1591569683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_183
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 346
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dcc46f173a7ee479304b149a57633a
+      internalID: 2032004132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_184
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 351
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8119eeecb8f754daa4e089e2ea651f
+      internalID: -1031168830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_185
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 351
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0d67b37942d304ba2f1ce412346785
+      internalID: -612442233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_186
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 351
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d1fbd63d81474dbb829f35345ddec
+      internalID: -1411316670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_187
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 351
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311845e3aa4ec274f9dd69bf0166e89d
+      internalID: -1751715330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_188
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 299
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb33a147167a5e418f09b2c6b8d0aff
+      internalID: 1459505933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_189
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 292
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48c67a5d426da4449928a76d5a63c64
+      internalID: 1107501597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_190
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 284
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25bae3333dae964b8ed8d0e921c74e6
+      internalID: -1991330414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_191
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 278
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f7943ea3e0614cbb795f646a1525e
+      internalID: -786578416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_192
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 151
+        width: 163
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af92283491203d48b577ad8e831c539
+      internalID: 1511743074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_193
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 6
+        width: 253
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1c9bcbc8e0ae4ebe5e0b7b9d4de8c
+      internalID: -1174269803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2115
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14465580eb629f644ae879314f3bb5fe
+      internalID: -881244893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1259
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ba6904794378429aebc64753f5a63
+      internalID: -1846708779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1260
+        width: 89
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebcba278766f0b4faf65c930363f54b
+      internalID: -206434065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1179
+        width: 123
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e32eefa1da0b4a816e42113aa001b
+      internalID: -1404618049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 949
+        width: 159
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7856db947f76441bf1b70ddd1d8b2a
+      internalID: -1585766760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_0: -881244893
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_1: -905124212
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_10: -1608828658
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_100: -297286984
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_101: -1671925873
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_102: -1263796489
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_103: 819980966
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_104: -2065990216
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_105: -959524407
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_106: 433261427
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_107: 786605462
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_108: 670032385
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_109: 1567865488
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_11: -1815384072
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_110: -2102081360
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_111: 596836152
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_112: -396981201
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_113: -193938026
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_114: -89807265
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_115: 233531413
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_116: 61884400
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_117: 1020445502
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_118: 514224654
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_119: 569712544
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_12: -1118135314
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_120: -140288634
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_121: 426992964
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_122: -1145860780
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_123: 706086262
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_124: 829968430
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_125: 1631448663
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_126: 1203436053
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_127: -1708702373
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_128: 693572892
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_129: 237567030
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_13: 2089189991
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_130: -1831506902
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_131: 1139850430
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_132: -2023551824
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_133: -588883215
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_134: -826348199
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_135: -1407209984
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_136: -1916681447
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_137: 723864896
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_138: -1388250112
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_139: -600834622
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_14: -115634000
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_140: 1725667101
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_141: 481897985
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_142: 37656369
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_143: -1800546903
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_144: -2074926080
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_145: 340540359
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_146: -391014646
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_147: -1026825123
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_148: 662733627
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_149: 1702976912
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_15: 197107092
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_150: -1299061972
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_151: -382994447
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_152: -126409593
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_153: 1697861156
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_154: 1613078030
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_155: -1845731950
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_156: -1243161699
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_157: 530441947
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_158: -1606618259
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_159: -1285481512
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_16: -84668958
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_160: -83526891
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_161: -434561564
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_162: -648459008
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_163: -276564912
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_164: 1656275627
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_165: 1828260654
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_166: -396399311
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_167: -346645878
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_168: 1169955186
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_169: 1531412179
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_17: -1191114877
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_170: -1033896148
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_171: -1883947814
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_172: -1986181605
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_173: -714948847
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_174: -1382956682
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_175: -1165603096
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_176: -1686945540
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_177: -984821659
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_178: 1849855236
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_179: 1801387452
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_18: 1296514689
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_180: 1574876494
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_181: -1732216288
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_182: 1591569683
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_183: 2032004132
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_184: -1031168830
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_185: -612442233
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_186: -1411316670
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_187: -1751715330
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_188: 1459505933
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_189: 1107501597
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_19: 1179776139
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_190: -1991330414
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_191: -786578416
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_192: 1511743074
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_193: -1174269803
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_194: 1712664149
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_195: 414661780
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_196: 1270290196
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_197: -942376668
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_198: 130737307
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_199: 592796465
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_2: -405843543
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_20: -631946003
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_21: -956935786
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_22: -551295390
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_23: 1910649278
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_24: 406853459
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_25: -2130647658
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_26: -1846708779
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_27: -206434065
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_28: -425948343
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_29: -1447909919
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_3: 1815237589
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_30: 897000867
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_31: -1590074226
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_32: -1831110508
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_33: -1427033775
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_34: -1470826312
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_35: 220219948
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_36: -1220666470
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_37: 729020228
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_38: 1115612939
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_39: 715848910
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_4: -1063601447
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_40: -1496871242
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_41: 416846107
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_42: -153272239
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_43: -800475431
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_44: 1910339403
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_45: -1277710617
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_46: -108808959
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_47: 980855796
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_48: -128179440
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_49: -405906921
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_5: 72880829
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_50: 178715530
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_51: -1594629260
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_52: 990555518
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_53: -298639766
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_54: -1404618049
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_55: -1585766760
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_56: 563374856
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_57: -2120410636
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_58: -599484741
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_59: -1549621332
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_6: -1499222255
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_60: 690761648
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_61: 1993572885
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_62: -31883892
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_63: 880194349
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_64: 1138110193
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_65: -1794994718
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_66: 1850976451
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_67: -788956662
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_68: 1473054119
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_69: 1654875538
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_7: -915423399
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_70: 1973865578
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_71: 910502141
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_72: -992037073
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_73: -1312183320
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_74: 153974280
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_75: -70590055
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_76: 667979169
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_77: -1032221272
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_78: -1670680316
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_79: -1577981332
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_8: -2001553417
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_80: 1482954295
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_81: -1466159392
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_82: -211436848
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_83: 1147278306
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_84: -1461230341
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_85: 1188157840
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_86: 1911525573
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_87: 1275834032
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_88: 698100985
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_89: 559368427
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_9: -77450808
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_90: -1458488004
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_91: -1930874448
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_92: 1263088193
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_93: 228446598
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_94: -1259330575
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_95: -121728220
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_96: -1265130696
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_97: 1640281281
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_98: -1218189751
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Dai-Manji_99: 1257589763
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

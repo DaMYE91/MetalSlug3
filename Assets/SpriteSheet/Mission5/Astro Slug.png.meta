@@ -1,0 +1,5559 @@
+fileFormatVersion: 2
+guid: 362e8af4a63b48a46b3d3f57ce54b1e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astro Slug_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1995
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631643ccd290994ebed7954d3e5b96d
+      internalID: 445476515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1995
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fbddc555edfa4592985f449479538
+      internalID: -411001428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1995
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4883dd7a6926469be22867b4101c8
+      internalID: 1524528971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1995
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0cad44f13f30643b4dbc4381c1a79f
+      internalID: -2031181930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1997
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6f5323d44e4a4e8de269b85ce98fe
+      internalID: 917894814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2001
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ccc4acf6487146b45cbd293168107
+      internalID: 1104180770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2035
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d180b4762517f45bd946737a9779db
+      internalID: -1086222247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2034
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698488e842be854f80ade3e1376c654
+      internalID: -756299823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2038
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7093ddf16e107443a15ad5e461d3f65
+      internalID: 804510021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2035
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d29a60095a304f8192b981ef77cad
+      internalID: 121187436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2034
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4498ebb565da74eaec62ef76952731
+      internalID: 2125356662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2036
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f99d359796cc4fb850dc45909a736
+      internalID: 1992673340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1994
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2486cfcaa8a8e54eaa9509a7d3bc7aa
+      internalID: 458180674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2021
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d880f698e9554ea9132b26796470e
+      internalID: 1380456891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2020
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55adaeccd8ebbdc4581a915210027a1c
+      internalID: -222164076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2020
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e286e6342619e034f8775c96c3d19841
+      internalID: -421596525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2021
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89858ac7013b8e249bfb3320b6617742
+      internalID: 18279574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2020
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff70058a73b075641a3a93c21e9198a2
+      internalID: -1944355152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2020
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b89225e83a01428c766fdff8acb6f
+      internalID: -830990001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2008
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e63b39e1291594593978ce75739323
+      internalID: 889773026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2002
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eca8eb408b29c42853395cca0801f2
+      internalID: 1896590377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2000
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a6ff99c50fed45b483a4c5ae4c7b2
+      internalID: -766309164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2001
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c16ae7ab7e3d540b118f8e6b7e1977
+      internalID: -778559502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2000
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984d6616df5ee048a22cfbfa2b74997
+      internalID: 1757420773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1988
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea9e8499f3a7a40829fde991815e1e
+      internalID: -1393754153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1985
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d70ee6d2415841b9f8d4d11d3bda2
+      internalID: 795949494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1919
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278abbe1785b89141ba81c2aa3b7cfaf
+      internalID: -1196782654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1919
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c3d0ccd1ce0644a3e827abf8fe205
+      internalID: -387190086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1919
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf4364acb8218459c8ebb8d8e4b70d
+      internalID: 485262729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1919
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942523d9c3aab54b8a712603f9542e7
+      internalID: -1673227216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1943
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24761ab6196752e44bd5b9109abc5d34
+      internalID: -1378083562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1942
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25352ae2c11384abe075082d7fae0b
+      internalID: -521090470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1945
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02226bffbbc7b1540be837e44027e25d
+      internalID: -1417622489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1954
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813044ad13dd2d469b792c5223a0620
+      internalID: 1929617867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1844
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e80e56c2323247bdcdabe50eff16c
+      internalID: -1162745022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1844
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6826907f5014254da8fc5e55b4605ab
+      internalID: -257098099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_39
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1844
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df35e3ac35d904cb51eb6a30666e40
+      internalID: -339930048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1844
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1428398869707134aa03c33a4a2c1de3
+      internalID: 1882615829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1844
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70581ce28d20bd64d9cab03a033bbad2
+      internalID: 1584585154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1844
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ccb356641ec24e9d46d1720a79697
+      internalID: 1156763260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1768
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9722b5212cd9cd0468595903975f68a1
+      internalID: 259939808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1768
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3c2d7c611b89045b8c9a74b2a276d1
+      internalID: 139157427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1768
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8283be279c0d760419ef381760c7049e
+      internalID: -412120022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1768
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b520603132c7d4383c0eedd21a47d2
+      internalID: -197077285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1692
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ead554ff3f154dbea60be327077ce
+      internalID: -1350680814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1692
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbfd5530cf0ad40b6b3e157e3488cd
+      internalID: -134887934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1692
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ec90d2b53a044db3c57eea050c788
+      internalID: -797685835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1692
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f405a9cdb9bee47a52156fe983ee4f
+      internalID: 942351222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1616
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abebeb83aa175d43a59fddad9577106
+      internalID: -1768900301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1616
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44411a01559e2194097992fcccfd4fca
+      internalID: -690418987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1616
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9017fd97f465a4ea8ec512c9c67ef1
+      internalID: 1754966170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1616
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea880dce67cea8478dae696a8ce516c
+      internalID: 585791455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1616
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823dcc95004d788418680711b61dfe89
+      internalID: -862728898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1616
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11415aa4073799e468ee4784685b7022
+      internalID: -1630720251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1540
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6660717fe1ab4f87951a4c9344aa4
+      internalID: 1100565174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1548
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f979c4e2f587fe488228b87d6041464
+      internalID: 1871213860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1548
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e8f8a68e43b844b12f5e23b53be7f
+      internalID: -1365425848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1548
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760a891d5df90ea4db442d5d7c0854f8
+      internalID: -1843365784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1539
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e940977fd9de7e4192abdc5c79a1a7f
+      internalID: -1769554525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1539
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b448452a9f77914692bfdd39c22ff72
+      internalID: 2037188294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1490
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eedea5c38c578c4aa1f42a7b5e84ac7
+      internalID: -1519823349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1494
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8fa997e22c0146b7baf06e4e7022f
+      internalID: -440588152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1496
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc064c0f09625498e16a81faa2c94a
+      internalID: -510685330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_75
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1499
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6865b351b80b94f8a3e81cfa2a50ec
+      internalID: 620420378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_76
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1501
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a182ea82dee6a2c45bae81eda8f0c324
+      internalID: 1981484100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_77
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1503
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45532e2dd53cd534194deccb11ebc920
+      internalID: -2014633387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_78
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1503
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ca95373f008d47801e1a6b3a15804
+      internalID: -1095330131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_79
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1504
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1cc7c8c05b73046a33b245bd437e9b
+      internalID: 1716825928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_80
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1503
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c918eeea4f2696a4c846724059531af0
+      internalID: -1289110095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_81
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1501
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982ced60d1a898b4b8ad1e4ecb9ecf91
+      internalID: 1759738075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_82
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1446
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ddb8b1dba74a447b65246ac96d7d8d
+      internalID: -390908058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_83
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1443
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457765cd1da48ce4dacd2876ff06d5f8
+      internalID: 2000947571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_84
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1441
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95789400ef689f42af724e82e1b41dc
+      internalID: -532960790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_85
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1437
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabfc2964a9cf8548b19b3106d03e48f
+      internalID: -1168077679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1366
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede5b0a12867f34596bb231dfaf9665
+      internalID: -1301942338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1366
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a152ca21c93ae84b864bc7b626f2cf6
+      internalID: 887622914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1365
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cee651481c484795a13ad773b1916
+      internalID: 2095118930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1365
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf79c39e796c6fe4888e31063b4ed3ab
+      internalID: -420149581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1365
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a84d1fe68c84643b79ee1d92776539
+      internalID: 1951575348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1365
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110186d3555b1b45b39062ead4fda4a
+      internalID: 1957481550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_102
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1366
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb17541f418674a8d3942fdaa09b4f
+      internalID: -934918341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_103
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1365
+        width: 112
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec148f15cb321b04296a6567387ca229
+      internalID: -525700333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1299
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24eba15166dc0149aafcfb40a32c871
+      internalID: -416190579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_117
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1225
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e64922dbd7ea4c80861eda64023f1
+      internalID: -331453153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_118
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1225
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd8d9614bdbed4c89e9babfc427928
+      internalID: -506997945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1225
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda30807c61390a43bc77bbd9cc67aeb
+      internalID: 1889550356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_120
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1225
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e575bbf98e1a408cee014b8667329
+      internalID: -1572358414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_121
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1225
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460f64962501e949926fca19e45d7bc
+      internalID: -1076442696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_122
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1225
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a25eb6c10570c43ae9d928926896b8
+      internalID: -1526706382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_123
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1225
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080b5b31ac562947ae814b81c954f3f
+      internalID: -1804510279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_124
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1142
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b382b4ef35ff5649be41e8b66bac03d
+      internalID: -478263643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_125
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1142
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18280767db6122144bb5f5d2f262041c
+      internalID: -1490621861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_126
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1142
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d1b098c5518d499dd876562646374
+      internalID: 1921868334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_127
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1109
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ba791fb1bd3f14ca16669e8a491aee
+      internalID: -405314515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_128
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1109
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a14e253495e64bb7c03fcd0bcf659
+      internalID: -289269257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_129
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a43c45c5b876428e16647fe0e9050
+      internalID: -1602268863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_130
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1bc9f9c5d15be4192ed6abc2f219da
+      internalID: 183506837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_131
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1105
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae4aa04beb6584c8e9941751470f1c
+      internalID: 1548297428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_132
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1105
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51829246e7dc0b44ea6e9d3158da71b7
+      internalID: -685234004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1104
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b05248d218344479f10f2c049aa23d
+      internalID: 1423916372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_134
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1104
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165318505d1092499524b84dd035a80
+      internalID: 14173720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_135
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1104
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8319a7c3a77bea4db0c42638513991b
+      internalID: -1142567957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_136
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1104
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5942ba0eb15a74cb697e997a2220be
+      internalID: 1513809347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_137
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1103
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06505b2b55506bb4f90c42fc707428f4
+      internalID: -427931567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_138
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1103
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a78317bb0dabd40ad1a532df37580c
+      internalID: -1404600478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_139
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1102
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7522c70e785394b9e0390976919d37
+      internalID: 20276384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_140
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1102
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb58bad14f6719409f02bcc04533c1c
+      internalID: 1843411631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_141
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1100
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefac08331221c4ba284df3473f11ed
+      internalID: -1637701101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_142
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1116
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc02cfe3e0cb1e4e801387fde7efa86
+      internalID: 1315812718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_143
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1116
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ffc6a3b3935cb41970e6bc5d625485
+      internalID: -1631871756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_145
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be46e3a7ed0e9b42a8f0ec43c7dbffb
+      internalID: -1613436642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_146
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1103
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a5d98b179351a4dade245ff60de709
+      internalID: -643342739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_147
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1103
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a29b17ac07e84bb7b89da8758a75d
+      internalID: 221279688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_148
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1043
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c64be1a59377c42b933766764f1124
+      internalID: 861704735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_149
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1043
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d63b50ac37a844ba529599e5fb54f
+      internalID: -1554877196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_150
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1045
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d37f60ee93ac1a4faf4bb2e87d732cb
+      internalID: 1708190408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_151
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1047
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a2de9992c62d41ace1c2dfb92e108
+      internalID: -78937817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_152
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1047
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f623eb58eb9b48b68db18c80ae016
+      internalID: 189523126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_153
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1041
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8fa905441b5a94598b1c12117dc8b9
+      internalID: 1219595211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_154
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1040
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6174e0b8ea6b040846d763bb898099
+      internalID: -457406221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_155
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1045
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e1359a8dbfb049b1338641048c0f0
+      internalID: -614337486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_156
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1053
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a6c8a9ebd642d4eb69d7da969a941b
+      internalID: -1610722468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_157
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1046
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03277023ba33986449a39ff7e9553830
+      internalID: -623501167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_158
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1040
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b96014cbe6304b9f3c1a2d2ba57fe
+      internalID: 2077752292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_159
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 969
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34709e5a8e84249969600ba86df2bc
+      internalID: 1464535149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_160
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 915
+        width: 40
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e8d01b8fb04d4c80b7a166ed2f6d9
+      internalID: 245257395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_161
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 858
+        width: 34
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae481176a0880104782ea78d476fa837
+      internalID: -1420344329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_162
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 812
+        width: 32
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a63550ae52bf2c40969cf292575f6cd
+      internalID: 594204324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_163
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 733
+        width: 32
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2abf3686b3c154585ea13238fdfff0
+      internalID: 1338175535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1010
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d75412a65e92ed44b3d3b25812c10d3
+      internalID: -1428373068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_165
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1007
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3bb965923db9c458efcacc5d6320e0
+      internalID: 1846048282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_166
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1001
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce1425c9d98644e93d3082ab188bd4
+      internalID: 1153845114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_167
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1008
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1681bc99d253841a2e6366ff3a7269
+      internalID: -1285320820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_168
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1012
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a1737551567324a975b8ae94c8c23b
+      internalID: -1495174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_169
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1018
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975303b5355f764ca71577f21deb4ef
+      internalID: 1095374393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_170
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c4116610a2ba4ab1cdd06b9d9fbb5
+      internalID: -720435092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_171
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 947
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba50f387e8b3374f81afbe56c5a7129
+      internalID: -432125878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_172
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 976
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e672b3787b1cd43ac079fcfaf51254
+      internalID: -772893483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_173
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 947
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda31d9e5c30ed42ac6acd68a40cd31
+      internalID: 1181781766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_174
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 975
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cdb584243fc5a48b8b83b5371278bb
+      internalID: 104775373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_175
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 936
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6d9baa2714e24d994095f224d1c61
+      internalID: -1069109099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_176
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 974
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d0104fee9933449921ba8c7c35e2f
+      internalID: 1857713235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_177
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 949
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013dd88bdc458446b450c0641154641
+      internalID: 1280920195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_178
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 979
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ceaca80bf3c6498e5b3a8e455cd63
+      internalID: -5476449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_179
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 948
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8340077071ff49a4ca92f8e620f8c
+      internalID: -538934373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_180
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 979
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a85fb20c0ea6e43864f36b0535bf48
+      internalID: 1041602234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_181
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 986
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f457c36ea97dfd4caaf96ad1079bdad
+      internalID: -2088857240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_182
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 734
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c2b49b4c9f834f8ce96e793232722
+      internalID: -1760605361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_183
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 734
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe738d23aa459478e58846bdf5d9c5
+      internalID: 1966806326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_184
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 734
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91234ba09376a314186ff5f474924093
+      internalID: -538870994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_185
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 734
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d850a4b14bd260843a83bdc0944a3073
+      internalID: -171240997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_186
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 734
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3c2dd032b95c541972ebcd04f4c595
+      internalID: -1528896538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_187
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 734
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c650e0bc19b14a929fd4b983029f9
+      internalID: 1231134976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_188
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 734
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e03148a725df940b8cbbbed5d14aa1
+      internalID: -1209064499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_189
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 734
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f22fc0e434db344bd339c84030ef97
+      internalID: 1573734624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_190
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 698
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e06ab959e770c45a9934bea8cae0d4
+      internalID: 974197368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_191
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 650
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8feeb9d75756604aa6f3e1953808d49
+      internalID: -1975206892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_192
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 653
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30059a54fe6b876438b9d743ab129b12
+      internalID: -860885739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_193
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 649
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e9a49d88b45243808aecf4019ac2e
+      internalID: -679470566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_194
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 647
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261f43b35a5f4404b948482dd8f7f998
+      internalID: 171595173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_195
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 645
+        width: 25
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779bae80715b9c488ad73ad82db87b5
+      internalID: 827524007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_196
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 635
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342c0eefc23d764da6f1b9f12186d93
+      internalID: -1762997063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_197
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 634
+        width: 15
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e6f839d5648b499074fe1eab0aa0e
+      internalID: 1745204663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_198
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 633
+        width: 13
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c75796b6317f94889438cbd6282eac
+      internalID: 746597319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_199
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 632
+        width: 13
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db35f998d1931499c1a4f120218421
+      internalID: -195479493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_202
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 600
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7585e75b8b0aed94ea8d874d96708b05
+      internalID: 2124360620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_203
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 600
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2366e971113efa41b8fddebf5e59932
+      internalID: 1274212340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a56bd0b6fe6184dbc7d7e5cf790b8a
+      internalID: 2120308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_205
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 600
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c79ca0756169640b65f7100343900f
+      internalID: -1487265088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 600
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d90ed32550beb4da5bcf949d2702eb
+      internalID: 448954143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_207
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 600
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfce6fe336ad1149a92784c6b8c6a6d
+      internalID: 1030548287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_208
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 600
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556cc0cabddb95e4196afb5911d1209f
+      internalID: -2002076826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_209
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 600
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94578fa5ff68747a4ffb351f4e2772
+      internalID: 766044289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_210
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 600
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f12b805d9b304496661f93813c8bc
+      internalID: -692392999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_211
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 600
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2899ff60cf2034040b3450822c0e9ead
+      internalID: 1443723972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_212
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 559
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60484d886db95b143b7022fef56d0974
+      internalID: 846102864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_213
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 559
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cde8e771644d047a8d8c21ac460faf
+      internalID: -355680748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_214
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 559
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d662deb6f48f4fab2355e03a19edf
+      internalID: 1500232857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_215
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 559
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c63761b277f14497c3b9dfe0808ab
+      internalID: -999659093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_216
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 557
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623635bbbf320941be6fade56527357
+      internalID: 1168347841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_217
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 554
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab58ad45bc74de468bb48d0d3f5e33d
+      internalID: 367242262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_218
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 551
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054fc23d0d60c74ba6b2cdf5a745a01
+      internalID: -83251626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_219
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 549
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96958b32fc54749859d445e9c7a5e5
+      internalID: -2015727121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_220
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 547
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045ba5f3e097054499d7ed048b36ae8
+      internalID: 1268393051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_221
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 546
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532dc046e4e9a14f979773f8052ef24
+      internalID: 1998415158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_222
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 505
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac493dfaa430f44a2a030449abd273
+      internalID: -445320335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_223
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 505
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4cc99b1e013294d96b794f9bd1b737
+      internalID: -1999328135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_224
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 506
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3790abccd008649b3a3677a27f396a
+      internalID: -1221315979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_225
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae0160fd54022409b4130c5d2697ee
+      internalID: -601133951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_226
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 510
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf4b97ff3d96a4fb85f14a2a65a804
+      internalID: -344107566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_227
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4f3994836f3544abc830578d4e824
+      internalID: -1837941453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_228
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 516
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7c1337432df0409e4dd2122c5b10f
+      internalID: 1890520076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_229
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 518
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3083c649b28a64dab0299451dd2c68
+      internalID: -2097309022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_230
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 518
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcae20f098f8a948b1ed0bd757b33be
+      internalID: -199369797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_231
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa4ec512ce8ed14caeb55e6c6e2857c
+      internalID: 1244267494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_232
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 477
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c740b88a2bdc94e8f90932de7e6fcc
+      internalID: 2032080267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_233
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 477
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb2c9f8785ef84da1213a7ae418049
+      internalID: 78229665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_234
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 427
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d593f889a355d2b4f8bcda225a74e301
+      internalID: 510633645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 427
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78147b540db395342a85b13bbead00e1
+      internalID: 1288797986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_236
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 419
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b85c71b3d768140b642288d41f1ab0
+      internalID: 1988061158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_237
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 414
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cefa41b011d7e498885c7e1510801a
+      internalID: 1249798302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_238
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 419
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3d77ac30104646aba34d744067749
+      internalID: 2133742501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_241
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 427
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d65975393c6e146b078f8972c94615
+      internalID: 1626508935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_242
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 425
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a57a1fdabac34dbf79fdd639e29b6
+      internalID: 108573127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_244
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 422
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea76afdd275b4349afa6bffab8acd2f
+      internalID: 1271215213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_246
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 419
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d611905c8609cf942a2a04a9834c9936
+      internalID: -850191557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_247
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 419
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6cd99314c85804cbb77f2c380d0fbd
+      internalID: 115022392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_249
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 358
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b16ebb786ab36439e83a5073292881
+      internalID: 998349248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_250
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 368
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fc09e70b128cb43b8ea5a10fd19df9
+      internalID: 245261268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_251
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 356
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c788a5b7eefd4f996e8fdaae02b75
+      internalID: -1085107852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_252
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 313
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861362b4c1a6fe9439c671948a5a3004
+      internalID: -721360189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_253
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 313
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0136a897a9a1896429f25c913ab419ed
+      internalID: -1301077069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_254
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 313
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b4c7b0fdc8ea8419005c8a8bd47434
+      internalID: -467984667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_255
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 313
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919795f8f8aded844a80156a01353838
+      internalID: 678521406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_256
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 313
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a943cfa853ab341a0c5336cdb005a3
+      internalID: 1679082672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_257
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 313
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611bbd3b4bd3c54fa9ef6bf2561b2b0
+      internalID: -1124358152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 313
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac3a1099a3e1546ab82c8722144093
+      internalID: -512287849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_259
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 313
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2616c3a7fc97fd4d921a0d79ea65824
+      internalID: -770743357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_260
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7871b5b9598b443a5869c7de0f1201
+      internalID: -852997863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_261
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d566026279120241a8eff187cec7754
+      internalID: 699519426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_262
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7cb58ef94bbd40873cd7c6179e0a4
+      internalID: -698053415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_263
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 271
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa8c4771301af469ff9fafcc28512a
+      internalID: 871588957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_264
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 271
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a04592980787a4aae7ed92caf204c8
+      internalID: -610198319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_265
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 272
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5926b53676b654cbbde9e61367be4e
+      internalID: 642630815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_266
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bffc3f920294884e932c45b1250bf89
+      internalID: -1369866200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_267
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 274
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767bbf6c5a20f947a94d5a590721007
+      internalID: -2095303009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_268
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 229
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf933220b659c54790aa95d7aff95e0
+      internalID: 1342278487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_269
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 229
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0e01fa3a4d62943a59b520405783db
+      internalID: 1917463623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_270
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 229
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25167fd498b0da245a04d9154b6a0d2f
+      internalID: -1032879026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_271
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 229
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85925dbbd092b6d4da547da436dda9a0
+      internalID: -1737876401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_272
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 229
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122b8ecdf12ed43449579adb0f4002c7
+      internalID: 1504312182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_273
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 230
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dcb07b85f89c54cb45e44029c818f8
+      internalID: 362450587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_274
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5cd569b33c43b439c81685cc2b2322
+      internalID: -1975116043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_275
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 235
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71d3ad4ccb83054e94c473a2ace19fc
+      internalID: 1484039393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_276
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 187
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68718f06fd76b40a424bf34f981a4b
+      internalID: -144965776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_277
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 187
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ee5879b77e124f88470189464454f
+      internalID: 1679692111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_278
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 187
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd0f7309a4e6064b80b7cede04248a3
+      internalID: 1265560878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_279
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 187
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9a1d24ba118644af13345bf9986aa
+      internalID: -1792358139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_280
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 187
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52e1d4b32a8664dbc03c5e5921bcbb
+      internalID: -872655070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_281
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 188
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65cd203ad0a4ad43b2ff9530d336a78
+      internalID: 1206345294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_282
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 189
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a35bc44e0bf3345bb2cf6598ed00ea
+      internalID: 828659944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_283
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de46bd16413a92047b27c0e8dad64c42
+      internalID: 837435867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1102
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9e9aaebe209364791f0917d734a1df
+      internalID: 370887881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 970
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21479b4fd369ce3448a3239db0e2b1bd
+      internalID: -1300003672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astro Slug_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 954
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62efa710b9ec722449d8b09534e164b9
+      internalID: 474672994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Astro Slug_0: 445476515
+      Astro Slug_1: -411001428
+      Astro Slug_10: 121187436
+      Astro Slug_100: 1585303160
+      Astro Slug_101: 1684425040
+      Astro Slug_102: -934918341
+      Astro Slug_103: -525700333
+      Astro Slug_104: -416190579
+      Astro Slug_105: -548011708
+      Astro Slug_106: 2105893635
+      Astro Slug_107: -1943401651
+      Astro Slug_108: -1399027112
+      Astro Slug_109: 685018691
+      Astro Slug_11: 2125356662
+      Astro Slug_110: -727054423
+      Astro Slug_111: -1323822156
+      Astro Slug_112: -1948869038
+      Astro Slug_113: 1300465214
+      Astro Slug_114: 543460436
+      Astro Slug_115: -341253297
+      Astro Slug_116: -798950097
+      Astro Slug_117: -331453153
+      Astro Slug_118: -506997945
+      Astro Slug_119: 1889550356
+      Astro Slug_12: 1992673340
+      Astro Slug_120: -1572358414
+      Astro Slug_121: -1076442696
+      Astro Slug_122: -1526706382
+      Astro Slug_123: -1804510279
+      Astro Slug_124: -478263643
+      Astro Slug_125: -1490621861
+      Astro Slug_126: 1921868334
+      Astro Slug_127: -405314515
+      Astro Slug_128: -289269257
+      Astro Slug_129: -1602268863
+      Astro Slug_13: 458180674
+      Astro Slug_130: 183506837
+      Astro Slug_131: 1548297428
+      Astro Slug_132: -685234004
+      Astro Slug_133: 1423916372
+      Astro Slug_134: 14173720
+      Astro Slug_135: -1142567957
+      Astro Slug_136: 1513809347
+      Astro Slug_137: -427931567
+      Astro Slug_138: -1404600478
+      Astro Slug_139: 20276384
+      Astro Slug_14: 370887881
+      Astro Slug_140: 1843411631
+      Astro Slug_141: -1637701101
+      Astro Slug_142: 1315812718
+      Astro Slug_143: -1631871756
+      Astro Slug_144: 1623610008
+      Astro Slug_145: -1613436642
+      Astro Slug_146: -643342739
+      Astro Slug_147: 221279688
+      Astro Slug_148: 861704735
+      Astro Slug_149: -1554877196
+      Astro Slug_15: -1300003672
+      Astro Slug_150: 1708190408
+      Astro Slug_151: -78937817
+      Astro Slug_152: 189523126
+      Astro Slug_153: 1219595211
+      Astro Slug_154: -457406221
+      Astro Slug_155: -614337486
+      Astro Slug_156: -1610722468
+      Astro Slug_157: -623501167
+      Astro Slug_158: 2077752292
+      Astro Slug_159: 1464535149
+      Astro Slug_16: 1380456891
+      Astro Slug_160: 245257395
+      Astro Slug_161: -1420344329
+      Astro Slug_162: 594204324
+      Astro Slug_163: 1338175535
+      Astro Slug_164: -1428373068
+      Astro Slug_165: 1846048282
+      Astro Slug_166: 1153845114
+      Astro Slug_167: -1285320820
+      Astro Slug_168: -1495174
+      Astro Slug_169: 1095374393
+      Astro Slug_17: -222164076
+      Astro Slug_170: -720435092
+      Astro Slug_171: -432125878
+      Astro Slug_172: -772893483
+      Astro Slug_173: 1181781766
+      Astro Slug_174: 104775373
+      Astro Slug_175: -1069109099
+      Astro Slug_176: 1857713235
+      Astro Slug_177: 1280920195
+      Astro Slug_178: -5476449
+      Astro Slug_179: -538934373
+      Astro Slug_18: -421596525
+      Astro Slug_180: 1041602234
+      Astro Slug_181: -2088857240
+      Astro Slug_182: -1760605361
+      Astro Slug_183: 1966806326
+      Astro Slug_184: -538870994
+      Astro Slug_185: -171240997
+      Astro Slug_186: -1528896538
+      Astro Slug_187: 1231134976
+      Astro Slug_188: -1209064499
+      Astro Slug_189: 1573734624
+      Astro Slug_19: 18279574
+      Astro Slug_190: 974197368
+      Astro Slug_191: -1975206892
+      Astro Slug_192: -860885739
+      Astro Slug_193: -679470566
+      Astro Slug_194: 171595173
+      Astro Slug_195: 827524007
+      Astro Slug_196: -1762997063
+      Astro Slug_197: 1745204663
+      Astro Slug_198: 746597319
+      Astro Slug_199: -195479493
+      Astro Slug_2: 1524528971
+      Astro Slug_20: -1944355152
+      Astro Slug_200: 274926007
+      Astro Slug_201: 851104335
+      Astro Slug_202: 2124360620
+      Astro Slug_203: 1274212340
+      Astro Slug_204: 2120308398
+      Astro Slug_205: -1487265088
+      Astro Slug_206: 448954143
+      Astro Slug_207: 1030548287
+      Astro Slug_208: -2002076826
+      Astro Slug_209: 766044289
+      Astro Slug_21: -830990001
+      Astro Slug_210: -692392999
+      Astro Slug_211: 1443723972
+      Astro Slug_212: 846102864
+      Astro Slug_213: -355680748
+      Astro Slug_214: 1500232857
+      Astro Slug_215: -999659093
+      Astro Slug_216: 1168347841
+      Astro Slug_217: 367242262
+      Astro Slug_218: -83251626
+      Astro Slug_219: -2015727121
+      Astro Slug_22: 889773026
+      Astro Slug_220: 1268393051
+      Astro Slug_221: 1998415158
+      Astro Slug_222: -445320335
+      Astro Slug_223: -1999328135
+      Astro Slug_224: -1221315979
+      Astro Slug_225: -601133951
+      Astro Slug_226: -344107566
+      Astro Slug_227: -1837941453
+      Astro Slug_228: 1890520076
+      Astro Slug_229: -2097309022
+      Astro Slug_23: 1896590377
+      Astro Slug_230: -199369797
+      Astro Slug_231: 1244267494
+      Astro Slug_232: 2032080267
+      Astro Slug_233: 78229665
+      Astro Slug_234: 510633645
+      Astro Slug_235: 1288797986
+      Astro Slug_236: 1988061158
+      Astro Slug_237: 1249798302
+      Astro Slug_238: 2133742501
+      Astro Slug_239: -1385536707
+      Astro Slug_24: -766309164
+      Astro Slug_240: -1967506480
+      Astro Slug_241: 1626508935
+      Astro Slug_242: 108573127
+      Astro Slug_243: 1565658172
+      Astro Slug_244: 1271215213
+      Astro Slug_245: 1717295066
+      Astro Slug_246: -850191557
+      Astro Slug_247: 115022392
+      Astro Slug_248: -1665501790
+      Astro Slug_249: 998349248
+      Astro Slug_25: -778559502
+      Astro Slug_250: 245261268
+      Astro Slug_251: -1085107852
+      Astro Slug_252: -721360189
+      Astro Slug_253: -1301077069
+      Astro Slug_254: -467984667
+      Astro Slug_255: 678521406
+      Astro Slug_256: 1679082672
+      Astro Slug_257: -1124358152
+      Astro Slug_258: -512287849
+      Astro Slug_259: -770743357
+      Astro Slug_26: 1757420773
+      Astro Slug_260: -852997863
+      Astro Slug_261: 699519426
+      Astro Slug_262: -698053415
+      Astro Slug_263: 871588957
+      Astro Slug_264: -610198319
+      Astro Slug_265: 642630815
+      Astro Slug_266: -1369866200
+      Astro Slug_267: -2095303009
+      Astro Slug_268: 1342278487
+      Astro Slug_269: 1917463623
+      Astro Slug_27: -1393754153
+      Astro Slug_270: -1032879026
+      Astro Slug_271: -1737876401
+      Astro Slug_272: 1504312182
+      Astro Slug_273: 362450587
+      Astro Slug_274: -1975116043
+      Astro Slug_275: 1484039393
+      Astro Slug_276: -144965776
+      Astro Slug_277: 1679692111
+      Astro Slug_278: 1265560878
+      Astro Slug_279: -1792358139
+      Astro Slug_28: 795949494
+      Astro Slug_280: -872655070
+      Astro Slug_281: 1206345294
+      Astro Slug_282: 828659944
+      Astro Slug_283: 837435867
+      Astro Slug_284: -286622839
+      Astro Slug_285: -712437500
+      Astro Slug_286: 2068484338
+      Astro Slug_287: 1382582819
+      Astro Slug_288: 188312371
+      Astro Slug_289: 1000484325
+      Astro Slug_29: -1196782654
+      Astro Slug_290: -762634765
+      Astro Slug_3: -2031181930
+      Astro Slug_30: -387190086
+      Astro Slug_31: 485262729
+      Astro Slug_32: -1673227216
+      Astro Slug_33: -1378083562
+      Astro Slug_34: -521090470
+      Astro Slug_35: -1417622489
+      Astro Slug_36: 1929617867
+      Astro Slug_37: -1162745022
+      Astro Slug_38: -257098099
+      Astro Slug_39: -339930048
+      Astro Slug_4: 917894814
+      Astro Slug_40: 1882615829
+      Astro Slug_41: 1584585154
+      Astro Slug_42: 1156763260
+      Astro Slug_43: 259939808
+      Astro Slug_44: 139157427
+      Astro Slug_45: -412120022
+      Astro Slug_46: -197077285
+      Astro Slug_47: -1350680814
+      Astro Slug_48: -134887934
+      Astro Slug_49: -797685835
+      Astro Slug_5: 1104180770
+      Astro Slug_50: 942351222
+      Astro Slug_51: -1768900301
+      Astro Slug_52: -690418987
+      Astro Slug_53: 1754966170
+      Astro Slug_54: 585791455
+      Astro Slug_55: -862728898
+      Astro Slug_56: -1630720251
+      Astro Slug_57: 1100565174
+      Astro Slug_58: 1871213860
+      Astro Slug_59: -1365425848
+      Astro Slug_6: -1809148646
+      Astro Slug_60: -1843365784
+      Astro Slug_61: 474672994
+      Astro Slug_62: 1980165009
+      Astro Slug_63: 2115821658
+      Astro Slug_64: 1111289213
+      Astro Slug_65: -1769554525
+      Astro Slug_66: 510331726
+      Astro Slug_67: -1232061489
+      Astro Slug_68: -2077480709
+      Astro Slug_69: 95314926
+      Astro Slug_7: -1086222247
+      Astro Slug_70: -667236908
+      Astro Slug_71: 2037188294
+      Astro Slug_72: -1519823349
+      Astro Slug_73: -440588152
+      Astro Slug_74: -510685330
+      Astro Slug_75: 620420378
+      Astro Slug_76: 1981484100
+      Astro Slug_77: -2014633387
+      Astro Slug_78: -1095330131
+      Astro Slug_79: 1716825928
+      Astro Slug_8: -756299823
+      Astro Slug_80: -1289110095
+      Astro Slug_81: 1759738075
+      Astro Slug_82: -390908058
+      Astro Slug_83: 2000947571
+      Astro Slug_84: -532960790
+      Astro Slug_85: -1168077679
+      Astro Slug_86: -1301942338
+      Astro Slug_87: -546542976
+      Astro Slug_88: 887622914
+      Astro Slug_89: 2095118930
+      Astro Slug_9: 804510021
+      Astro Slug_90: 1235653449
+      Astro Slug_91: 1442586616
+      Astro Slug_92: -1327757249
+      Astro Slug_93: -420149581
+      Astro Slug_94: -212282197
+      Astro Slug_95: -1598295187
+      Astro Slug_96: 1136006951
+      Astro Slug_97: 1614973040
+      Astro Slug_98: 1951575348
+      Astro Slug_99: 1957481550
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: 830b6abe3cfd8e641958918a9eca8572
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceMarco_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2233
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7384f23b17ed3458eaa64c93640ed9
+      internalID: 1980751141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2233
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8eaf2b017df2449b5dd1dbbee5e60e
+      internalID: 286262155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2233
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87e5fee39ace447a09564ba3919a38
+      internalID: 1035810410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2233
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8923e090dc9c124088ee7024d143299
+      internalID: 1682451125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2233
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca75b12f4b84e43a042e94e362a68b
+      internalID: -1958554203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2145
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0379a4fab2db5c418bdca931eab7968
+      internalID: -1717040872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2145
+        width: 22
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2069a113ea3187c43b8d4516ce7d31b0
+      internalID: -300820281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2145
+        width: 22
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2764cb41765445a42ab9b814b66be
+      internalID: -248760371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2145
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997b8579dfe59154b9bde34be8d87bac
+      internalID: -650218519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2081
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2deb3f9a190ec43af43663ae5c8ecc
+      internalID: 543850908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2081
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a256c5a417309a64fa8a104a649e2155
+      internalID: -342732930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2081
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3745a908933b49901a154cf7fc1d6
+      internalID: 1047685725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2081
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa224133e396645a02891625e8ab0d
+      internalID: -128140515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2081
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad90e246baa3b44b73c96f5c53f8ab
+      internalID: -1881116978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2081
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19bbabc67991947ab246ed01310892
+      internalID: -1132117585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2081
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b6dac698c762e44980fa2fdb31a209
+      internalID: 1909439151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2081
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5955637849bbfbb40981a0bbb767d400
+      internalID: 2107849574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1993
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd377a5d29dd2b4882d88ab109e38c2
+      internalID: -867435734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_23
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1993
+        width: 25
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb13edd27824247a2e52b84689ad7d
+      internalID: -638397917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1993
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b8cc115af16947964c1418403ade3
+      internalID: 1441094688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1993
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d5da8588c3e34d940d602acbe0d8b
+      internalID: -1356771179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1931
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a8b28c277cb648ab302399fa4aa41
+      internalID: 190461305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1931
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c36c42c84ef34db454bd28dd6906e
+      internalID: 103917037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1931
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bbd7bbb81c0f140b354e998b08d270
+      internalID: -2006427863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1931
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e4ab1fb20af840b9aed3351047d8d
+      internalID: 525371823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1931
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5cf23b26ce3b499886d8d27c656ae
+      internalID: 1543507720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1931
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad78dcd71ee0a48b624888a54c8b55
+      internalID: -1844252389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1931
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ea5af3d51b6349b14a64779f94bee
+      internalID: -246517212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1931
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e73058d4b8747a48be0e6f8ebfc5b08
+      internalID: 1806134621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1844
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5441eede55aa98046808587150fbb242
+      internalID: 1298197727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1844
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f1075b9a4b8344b54865bf07c6d49
+      internalID: -1770389081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1844
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c57986947886764ab3871d9f5b02c0b
+      internalID: -1759762548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1844
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f388dca91987414e86fac164eb67655
+      internalID: -1961053314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1783
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a10e4055a60ce468a3b0031b8b75a8
+      internalID: 2022764238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1783
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cce044458f1df4c92ce88d16ee1ff1
+      internalID: 1317178054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1783
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04224fff56459b14481143ae0e845d4b
+      internalID: -621666623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1783
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77273e743964c41a092777509e563a
+      internalID: 2082452525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1783
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677a127db50c93740a66d844179b7304
+      internalID: -660320324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1783
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9afbde4c31a244badea59732c82f26
+      internalID: 1432058602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1783
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58d62b8d30a7e4f966d2e9cbd47261
+      internalID: 1211172000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1783
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426dd2cec337bc41be590452509945d
+      internalID: 1662772958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e103fe7fbdd7479b450a0abe5cdd0
+      internalID: 774095799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1696
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e017dce18361f4cacd391d1291a405
+      internalID: 791915401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1696
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342ab9885f080c4e80cd3a002f3c3d1
+      internalID: 1900204672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1696
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936ad00526908b468326b356e88eefd
+      internalID: -754893728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a6fcb2c351284097b61b1a4f39108
+      internalID: 1622364264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1635
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8c38c9538f9614db00356bb099e1c5
+      internalID: 343075860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1635
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123c540ae6c5234795b8424480a8c96
+      internalID: -821796886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1635
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4a412c7545aeb4e9fdc7ffec2180b2
+      internalID: -1206667778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1635
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01dea7f7bbb85f45840443fffca6613
+      internalID: -19263269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1635
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a35f37200afd74592b278b253b441b
+      internalID: -459196097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1635
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404c0edd91e72de419f55cd66f08038c
+      internalID: 737244814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1635
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe8adc423881c4886a40f57cd26aa8
+      internalID: -34425145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1549
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf796d557fc2640b32bbc91f84176f
+      internalID: 557436429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_65
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1549
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649c4dc84c46164ebcaf0a671fd177b
+      internalID: 1623864002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1549
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecebc2c6675db94294923ecf3ebfab3
+      internalID: -961967746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_67
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1549
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a3ecc02024f0e468815ee18c5b83ce
+      internalID: 894909197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1489
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8572e14b1ebce489a229ef8d2903d5
+      internalID: 237781141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1489
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07203dba451c33f4b934370b1290f393
+      internalID: -1917511070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1489
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f428ebb9aa286488c6aaad9dd2846c
+      internalID: -1747787615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1489
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e359cd0cd125543affe090fed3a49f
+      internalID: -228763516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1489
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b749ba94546d5d4aa8af0422459203f
+      internalID: -1214457282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1489
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290e03206ed110c46a28855189f08ed0
+      internalID: 1166539242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1489
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4474f22c0d7eab4d81ea02e451e9897
+      internalID: -853794841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1489
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63d58942f261e41b09b72fa1b48de3
+      internalID: -967248564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33594a7afc203448d20bd1e887cbc6
+      internalID: 268116739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_77
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1433
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ab2ef5b087b84c84016301f1377a8
+      internalID: 1823814837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1433
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99232630729b5c24a9abebc55975245e
+      internalID: -1253767051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef4a4c73a7279c409f8527c97710f3c
+      internalID: 2107559791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1360
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85965301624534db1a6f5f03d9abd4
+      internalID: -1513272302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1360
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2f877448f03143b3e79ad019990db
+      internalID: -1476982940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1360
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba2b87c49b59240ab18e28482ba574
+      internalID: 153063166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_83
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1360
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5938d11de18eba542923fd2d74893d7d
+      internalID: -1858939046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 26
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269af97b4540b14f99f6d6d9a58fd03
+      internalID: -777413013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1263
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24ce3cdff77fa4ca7b0e99e684c1e4
+      internalID: 937808148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_87
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1263
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e56a2153ab4241ba322ed41b62243
+      internalID: -79837579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_88
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1263
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f416565769a814bafe21ae756a472a
+      internalID: -164963550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b219bec10cef354e8b6c39ffa720a36
+      internalID: -1735570315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1190
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4a1ce5f49e924d947cb14d638329c
+      internalID: 2015989029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1190
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786dd71bcb24873488cc61a7985ded3c
+      internalID: 1102350622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_92
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1190
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4798df74607f948a53be81b6866afe
+      internalID: 2044740482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_93
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1190
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a9e1b0b35c214db819d4bdddea752
+      internalID: 855388770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd1b04bfb6a414fa967e05faf84f51
+      internalID: -1751478234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_95
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1116
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f0da8e7a4d864e8a479897c189656
+      internalID: -304777658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_96
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1116
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd4f3ba1d0fd147af8ef229831d6b3
+      internalID: -1410928908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1116
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f0c9d5b92441b44ae1ac5df3dbb8d8
+      internalID: -1269241932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1116
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b255b172a7d7f34eb1b3c89dd4b03c0
+      internalID: 1586214942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_99
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1116
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db6566e79f86a4288d2b0148bb6b89
+      internalID: -55288190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 27
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec0b4326316f184dbccb57b68b17ce9
+      internalID: 651038686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1019
+        width: 27
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf66c997582219a43be984a04bcd4e23
+      internalID: -1245876487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1019
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dbb956e24cf2f48af8b542184e879a
+      internalID: 1106553881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1019
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75cb5d497d99940a38c9545d8dfe3a
+      internalID: 1917701462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070ed0dd1c211243a09001e165ad858
+      internalID: 164241277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 946
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2799feb80496974f9bb5ce1fc2dacbc
+      internalID: -1580487835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 946
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66795a3fbc0d9e345b762de09a03ca92
+      internalID: -1589159891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_109
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 946
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e877023d09df0664d8f1dc4026cb7fcc
+      internalID: 175439973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 946
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5f007c3c820f469670014be5a159e
+      internalID: 165859016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581099122133a0d4a9b64ed257095e20
+      internalID: 1794546876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 873
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d7f3a71fd30740b3a39c7e0a10a0e
+      internalID: 222638610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_113
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 873
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe7b9548a89ed478194535d2a57a83
+      internalID: -943508851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_114
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 873
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef528aae45ac5ef4dad9c2a32cc61f0b
+      internalID: 129825593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 873
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da065f109a6ab4ba13068d4f5c0547
+      internalID: -1858907206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 873
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e41c0aa6fa47e429e31099a84fde62
+      internalID: 1642209498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bae0c2d1a494b46b4a2bc53df22312
+      internalID: -599399965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 777
+        width: 28
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2816538c1ed33cb44b7d0069b4685097
+      internalID: -1865554620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_121
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 778
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88738c9fd4ceed478a94f5f7c678570
+      internalID: -1165684244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_122
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 778
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe521a308940bb741b61156fefc8a72c
+      internalID: -743357560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7565e3b6baf6844792dc679866baca6
+      internalID: 887253683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 705
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e527954fbda1146a17785b081f58e7
+      internalID: 1415178817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 705
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a000744db7564386b03dc5f53c12c
+      internalID: -1729592774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_126
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 705
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be929bf6591a1d49960a1051e5fa39b
+      internalID: 1906927703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 706
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633600c624ec8e6459994cf6b8f2e06f
+      internalID: -1788006770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79b38858f18af4e8af6ce3867149ce
+      internalID: 1749183647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_129
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 632
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c496430050cb24aa7f38ac41052a9e
+      internalID: 1906085593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_130
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 632
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9bb93ee9771a345959d875eb1fbac2
+      internalID: 535060860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_131
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 632
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af351b7fe2ef3e46a8d6f378eb9dec7
+      internalID: -523592898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_132
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 632
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50952f01e2be94b8fcf018bea883e3
+      internalID: 1237085417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_133
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 632
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286f1c6ea6dc8b468278c25ed70a399
+      internalID: 1421851975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37e7e93a8e1914888e854860ab82d3
+      internalID: -1315163450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 535
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc8565e8e67a448a15baf47731bbbc
+      internalID: 1913490293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_138
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 537
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2df4b2cff3701d40a3e657eeaeb96d3
+      internalID: -54115086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_139
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 537
+        width: 26
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f249142d09e0d24aaa6ddcda0acfc10
+      internalID: 2078573687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812d91878d2eba40a5e9061a25f0b4c
+      internalID: 216493140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_141
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 463
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3353ace5d1c8314d99ac83626839244
+      internalID: 300397777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 463
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698097ce9b8cc545b47f7ae3c01c952
+      internalID: -447335309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 463
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3306217c647447881025d85e661c1
+      internalID: -171015001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_144
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 463
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c047a30a7eea41acf53f91b6a6d40
+      internalID: 1493043932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933d2df1eff593a48a5ba68ea70764c9
+      internalID: 329695345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_146
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 391
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017628d6223e2674081097039ab1bef0
+      internalID: 1144519915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_147
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 391
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf6e5a9819f7c4dbe2b7e482003f8e
+      internalID: 1241832629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_148
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 391
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad611ee8c7feb64ebd24cd8a730fb88
+      internalID: 829746920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 391
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee921a101ab96764c8d6b1ffe86adffc
+      internalID: 464532885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_150
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 391
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedde82f9cb74194dbe002bac5a9fbc6
+      internalID: 1770969290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436465d005eff14d867b12176edf521
+      internalID: 1800326609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_154
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 296
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d1e2ba1a9f3984fab539f033796971
+      internalID: -663389957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_155
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 296
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ffabc53152256409d6df12e34ae0d8
+      internalID: 84894495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_156
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 296
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d976beaa6f9194149a27b4609003a8b1
+      internalID: -457865621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afcd6250c040141b7e90976c6e5d8a
+      internalID: -2022027356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004a1866dab5714d9290506a7b5b869
+      internalID: -1464596378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_159
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a350d1120245b24db161027068da0a1
+      internalID: 1171774253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01407dec162cc4091be126d78cb57b
+      internalID: 377441224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_161
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 225
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af10ba9859876a4083076d980713489
+      internalID: -217223878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3fabac1d312a4aa7267f04a877608
+      internalID: 123117092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d583e3f552097d548a77fa724f8bc1ff
+      internalID: 81652480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_164
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702cb2a482fdac94594389a5204b5420
+      internalID: -232883880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_165
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 153
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1649912abd1dff4e914b2f0eeae4979
+      internalID: -1212737183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_166
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4bee677f6d38549953797891e4ed35
+      internalID: 1874360381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_167
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 153
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1242dbe3bcfef4caf8e378740fce1a
+      internalID: -560120535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb87ac3a2f792248ac6c3ac417affb1
+      internalID: -1051950846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_169
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 86
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45ecc992416f85488762024c57cd5b7
+      internalID: -1284637913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_170
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 86
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe51548d2aa2ba4281a7fe77bbf18e3
+      internalID: -1065482037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c25f508bc77741a623ee097c7370f
+      internalID: 801871631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ab5c04bda272a4cbea8d5fb3898de7
+      internalID: 529794400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a3a05d482067b47a9f38baf09595b7
+      internalID: 2110562435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_174
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10b2231d310b934386bf503f69c5dd4
+      internalID: -928490929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02d10a2cd172c41a13817efac8f776
+      internalID: -209791759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 46
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c50b5f5084684dac1195c7adb7888
+      internalID: 263294765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8162454eb77a42b3e661ed1494890
+      internalID: -1136931553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_178
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bfbe7caaec0114a8bb24079a179bc3
+      internalID: 1295374984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ebbc46b3f9f24db488b1275a1f3f6
+      internalID: 1288780938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_180
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 23
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2f71b12523df542920eb1ca1cd3e2e
+      internalID: -157871875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_181
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e0e2be31eda014a86e8167db8e036a
+      internalID: -220983323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_182
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 27
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39418aed2b6f6b74da2f95383ca049bb
+      internalID: -1138428289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d393facc7ca04aab2da513444cd79
+      internalID: 1097342279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_184
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ace99c31b2c942abef790af217db1
+      internalID: 1585431004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_185
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35488bb0d55ac914ebc09aecd049602b
+      internalID: -838055519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_186
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aaa5ca275878346b2f91b00b1c2180
+      internalID: 1904940679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_187
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76528e3928aa29d438e4860ee5c64e12
+      internalID: -1523587856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMarco_188
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c565b6c8e31984ebd1c8078a09de75
+      internalID: -352633345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpaceMarco_0: 500418945
+      SpaceMarco_1: -1100474291
+      SpaceMarco_10: -248760371
+      SpaceMarco_100: 651038686
+      SpaceMarco_101: -1018150112
+      SpaceMarco_102: -1192296230
+      SpaceMarco_103: -1245876487
+      SpaceMarco_104: 1106553881
+      SpaceMarco_105: 1917701462
+      SpaceMarco_106: 164241277
+      SpaceMarco_107: -1580487835
+      SpaceMarco_108: -1589159891
+      SpaceMarco_109: 175439973
+      SpaceMarco_11: -650218519
+      SpaceMarco_110: 165859016
+      SpaceMarco_111: 1794546876
+      SpaceMarco_112: 222638610
+      SpaceMarco_113: -943508851
+      SpaceMarco_114: 129825593
+      SpaceMarco_115: -1858907206
+      SpaceMarco_116: 1642209498
+      SpaceMarco_117: -599399965
+      SpaceMarco_118: 789531054
+      SpaceMarco_119: 198260221
+      SpaceMarco_12: 543850908
+      SpaceMarco_120: -1865554620
+      SpaceMarco_121: -1165684244
+      SpaceMarco_122: -743357560
+      SpaceMarco_123: 887253683
+      SpaceMarco_124: 1415178817
+      SpaceMarco_125: -1729592774
+      SpaceMarco_126: 1906927703
+      SpaceMarco_127: -1788006770
+      SpaceMarco_128: 1749183647
+      SpaceMarco_129: 1906085593
+      SpaceMarco_13: -342732930
+      SpaceMarco_130: 535060860
+      SpaceMarco_131: -523592898
+      SpaceMarco_132: 1237085417
+      SpaceMarco_133: 1421851975
+      SpaceMarco_134: -1315163450
+      SpaceMarco_135: 121069346
+      SpaceMarco_136: -1955357603
+      SpaceMarco_137: 1913490293
+      SpaceMarco_138: -54115086
+      SpaceMarco_139: 2078573687
+      SpaceMarco_14: 1047685725
+      SpaceMarco_140: 216493140
+      SpaceMarco_141: 300397777
+      SpaceMarco_142: -447335309
+      SpaceMarco_143: -171015001
+      SpaceMarco_144: 1493043932
+      SpaceMarco_145: 329695345
+      SpaceMarco_146: 1144519915
+      SpaceMarco_147: 1241832629
+      SpaceMarco_148: 829746920
+      SpaceMarco_149: 464532885
+      SpaceMarco_15: -128140515
+      SpaceMarco_150: 1770969290
+      SpaceMarco_151: 1800326609
+      SpaceMarco_152: -1382792256
+      SpaceMarco_153: -996667154
+      SpaceMarco_154: -663389957
+      SpaceMarco_155: 84894495
+      SpaceMarco_156: -457865621
+      SpaceMarco_157: -2022027356
+      SpaceMarco_158: -1464596378
+      SpaceMarco_159: 1171774253
+      SpaceMarco_16: -1881116978
+      SpaceMarco_160: 377441224
+      SpaceMarco_161: -217223878
+      SpaceMarco_162: 123117092
+      SpaceMarco_163: 81652480
+      SpaceMarco_164: -232883880
+      SpaceMarco_165: -1212737183
+      SpaceMarco_166: 1874360381
+      SpaceMarco_167: -560120535
+      SpaceMarco_168: -1051950846
+      SpaceMarco_169: -1284637913
+      SpaceMarco_17: -1132117585
+      SpaceMarco_170: -1065482037
+      SpaceMarco_171: 801871631
+      SpaceMarco_172: 529794400
+      SpaceMarco_173: 2110562435
+      SpaceMarco_174: -928490929
+      SpaceMarco_175: -209791759
+      SpaceMarco_176: 263294765
+      SpaceMarco_177: -1136931553
+      SpaceMarco_178: 1295374984
+      SpaceMarco_179: 1288780938
+      SpaceMarco_18: 1909439151
+      SpaceMarco_180: -157871875
+      SpaceMarco_181: -220983323
+      SpaceMarco_182: -1138428289
+      SpaceMarco_183: 1097342279
+      SpaceMarco_184: 1585431004
+      SpaceMarco_185: -838055519
+      SpaceMarco_186: 1904940679
+      SpaceMarco_187: -1523587856
+      SpaceMarco_188: -352633345
+      SpaceMarco_189: -524092876
+      SpaceMarco_19: 2107849574
+      SpaceMarco_2: 1980751141
+      SpaceMarco_20: -867435734
+      SpaceMarco_21: -1041952554
+      SpaceMarco_22: -937764836
+      SpaceMarco_23: -638397917
+      SpaceMarco_24: 1441094688
+      SpaceMarco_25: -1356771179
+      SpaceMarco_26: 190461305
+      SpaceMarco_27: 103917037
+      SpaceMarco_28: -2006427863
+      SpaceMarco_29: 525371823
+      SpaceMarco_3: 286262155
+      SpaceMarco_30: 1543507720
+      SpaceMarco_31: -1844252389
+      SpaceMarco_32: -246517212
+      SpaceMarco_33: 1806134621
+      SpaceMarco_34: 1298197727
+      SpaceMarco_35: -820203955
+      SpaceMarco_36: 1171408020
+      SpaceMarco_37: -1770389081
+      SpaceMarco_38: -1759762548
+      SpaceMarco_39: -1961053314
+      SpaceMarco_4: 1035810410
+      SpaceMarco_40: 2022764238
+      SpaceMarco_41: 1317178054
+      SpaceMarco_42: -621666623
+      SpaceMarco_43: 2082452525
+      SpaceMarco_44: -660320324
+      SpaceMarco_45: 1432058602
+      SpaceMarco_46: 1211172000
+      SpaceMarco_47: 1662772958
+      SpaceMarco_48: 774095799
+      SpaceMarco_49: -472036748
+      SpaceMarco_5: 1682451125
+      SpaceMarco_50: -1278017144
+      SpaceMarco_51: 791915401
+      SpaceMarco_52: 1900204672
+      SpaceMarco_53: -754893728
+      SpaceMarco_54: 1622364264
+      SpaceMarco_55: 343075860
+      SpaceMarco_56: -821796886
+      SpaceMarco_57: -1206667778
+      SpaceMarco_58: -19263269
+      SpaceMarco_59: -459196097
+      SpaceMarco_6: -1958554203
+      SpaceMarco_60: 737244814
+      SpaceMarco_61: -34425145
+      SpaceMarco_62: 557436429
+      SpaceMarco_63: -1089386183
+      SpaceMarco_64: 567776060
+      SpaceMarco_65: 1623864002
+      SpaceMarco_66: -961967746
+      SpaceMarco_67: 894909197
+      SpaceMarco_68: 237781141
+      SpaceMarco_69: -1917511070
+      SpaceMarco_7: -1717040872
+      SpaceMarco_70: -1747787615
+      SpaceMarco_71: -228763516
+      SpaceMarco_72: -1214457282
+      SpaceMarco_73: 1166539242
+      SpaceMarco_74: -853794841
+      SpaceMarco_75: -967248564
+      SpaceMarco_76: 268116739
+      SpaceMarco_77: 1823814837
+      SpaceMarco_78: -1253767051
+      SpaceMarco_79: 2107559791
+      SpaceMarco_8: -300820281
+      SpaceMarco_80: -1513272302
+      SpaceMarco_81: -1476982940
+      SpaceMarco_82: 153063166
+      SpaceMarco_83: -1858939046
+      SpaceMarco_84: -777413013
+      SpaceMarco_85: 937808148
+      SpaceMarco_86: 682799009
+      SpaceMarco_87: -79837579
+      SpaceMarco_88: -164963550
+      SpaceMarco_89: -1735570315
+      SpaceMarco_9: 536273828
+      SpaceMarco_90: 2015989029
+      SpaceMarco_91: 1102350622
+      SpaceMarco_92: 2044740482
+      SpaceMarco_93: 855388770
+      SpaceMarco_94: -1751478234
+      SpaceMarco_95: -304777658
+      SpaceMarco_96: -1410928908
+      SpaceMarco_97: -1269241932
+      SpaceMarco_98: 1586214942
+      SpaceMarco_99: -55288190
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

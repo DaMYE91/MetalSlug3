@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 5e084805d7f31fa439c1dbdec453791a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe330573e57c40946a0b508e89e836dc
+      internalID: -256667669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c024e4a38dc9874b8dc3891408519b0
+      internalID: -997486499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 139
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3ae27fdaaf2b43994fbc7cfaec8ff
+      internalID: 1741592588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 139
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0c917fdafd7340ad964259be71d95
+      internalID: 2084272890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 139
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76776a50b04aac541b2aa09cb5823ef8
+      internalID: 1010749590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 139
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc705da0b12d641a4963e2506345b2
+      internalID: 319775990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 139
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29784978eb7c31b429df1e8d7276500e
+      internalID: -1189476487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 139
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e09974a12ae364eb11eda0139315ba
+      internalID: -992412369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 139
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04725c834775041be6d4c9d8b1a28f
+      internalID: 391971610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 139
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518caaf1f4144f4b8ea4424933dd6ad
+      internalID: -517206581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4866716008dc344ab88985b1844a96
+      internalID: 1451512090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 105
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c70300e5c979f45a034af4751c118d
+      internalID: 1649518004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb476b016dbe6f4abf79e6a56ccd99c
+      internalID: 1219046775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 105
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671f3b9bf9ade244bb2a8bfb3e8ec9e
+      internalID: -326055585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 105
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4392e9058e7d07448e4d3a11a2f724a
+      internalID: -1510170141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 105
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb92f6643946c4d4c821f34960487c64
+      internalID: -1455366346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 105
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc125c96aca33348875d0bcfd2bb9e2
+      internalID: 133494625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 105
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef51fd7217d6a43893bab55f2526d0
+      internalID: 1528393353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 105
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b84ab50d1e774293f5b0ca06e6d75
+      internalID: -1140560418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 105
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc011172353bf8478b2ccdcf276b612
+      internalID: -724714238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71ffd4b4e3b6f45853fab596c3e53a
+      internalID: -1896812324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20b4e98633bc946ae7536b3c7bef6f
+      internalID: -610106386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0388351d9a3f9074db305ef08671a3a3
+      internalID: -620147792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21758bb0ca3ca3b4ca4eebebfceb0be2
+      internalID: 901420917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c6f0cf6a330441bd221689e159825
+      internalID: 1514881272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc86a02e496594babfe8484de83bc0
+      internalID: -1405673640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf529373a487674fb06599d2afeea17
+      internalID: -1923740537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 71
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd502694b100834290b8ed48efa063e
+      internalID: -1081012344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 71
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b2f18f932254245b7ab1840ba2e2c0
+      internalID: 1509917967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Meteorites_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 71
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c4122d71c90f409c9a63166b9193c
+      internalID: -1409358787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_0: -256667669
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_1: -997486499
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_10: 1451512090
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_100: -948307223
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_101: 1406989168
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_102: -194506899
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_103: -779699520
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_104: 98385571
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_105: -1973355807
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_106: -604829690
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_107: -320067534
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_108: 1130062905
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_109: 1757869552
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_11: 1649518004
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_110: 951407546
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_111: 2043385235
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_112: 2021238347
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_113: 1638747193
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_114: 1173351705
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_115: -1396466083
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_116: 124939308
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_117: -267377002
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_12: 1219046775
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_13: -326055585
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_14: -1510170141
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_15: -1455366346
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_16: 133494625
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_17: 1528393353
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_18: -1140560418
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_19: -724714238
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_2: 1741592588
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_20: -1896812324
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_21: -610106386
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_22: -620147792
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_23: 901420917
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_24: 1514881272
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_25: -1405673640
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_26: -1923740537
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_27: -1081012344
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_28: 1509917967
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_29: -1409358787
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_3: 2084272890
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_30: 629176624
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_31: 120215271
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_32: 338621483
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_33: -1597351649
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_34: 339841116
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_35: -1619590541
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_36: -521018522
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_37: -40120980
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_38: -218853152
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_39: -1194309312
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_4: 1010749590
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_40: 899540358
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_41: 586841835
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_42: 1299455532
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_43: 1135834060
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_44: 1929279295
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_45: 1224300734
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_46: 732185421
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_47: 343484851
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_48: 2042173129
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_49: 1633769187
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_5: 319775990
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_50: 906177071
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_51: 1065865107
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_52: -1868018956
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_53: -1542241275
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_54: 1780728882
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_55: -1848807223
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_56: -483185607
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_57: -1942319863
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_58: -1273170701
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_59: 290330048
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_6: -1189476487
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_60: 1476671548
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_61: 1407873300
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_62: -1590659143
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_63: -1867015386
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_64: -2109140433
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_65: -1492816187
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_66: -360130455
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_67: -647430630
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_68: 659946338
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_69: -1889572427
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_7: -992412369
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_70: -690756756
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_71: -405042296
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_72: 1143273254
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_73: -787235933
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_74: -1317424561
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_75: -1505805620
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_76: -1503087828
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_77: -576851393
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_78: 2040116939
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_79: 1266876026
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_8: 391971610
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_80: 1242874141
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_81: -889948905
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_82: 114636310
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_83: -1269602261
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_84: -451570330
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_85: -807517766
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_86: 929580133
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_87: -1115207950
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_88: 62093652
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_89: 1466328632
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_9: -517206581
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_90: 1707612596
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_91: -553197686
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_92: -43466728
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_93: -27137109
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_94: -1648965829
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_95: -1253340159
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_96: -101560181
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_97: 357473212
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_98: -1223610541
+      Neo Geo NGCD - Metal Slug 3 - Meteorites_99: 748174007
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

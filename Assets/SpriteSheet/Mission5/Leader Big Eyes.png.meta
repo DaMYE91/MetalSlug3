@@ -1,0 +1,1624 @@
+fileFormatVersion: 2
+guid: fb3717ac36076ab46aca2aaf0a3f801b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e39a2c90ba5dbf468f96e3db11fdab1
+      internalID: -1391908882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de0921bbd404548a3470c1cda7f454
+      internalID: -659687738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9452529435964ebf4cc9dddf00785
+      internalID: 1955992687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbd1e3d83e2a254a98f11a4d8a0f6f6
+      internalID: -391446272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cbf492f31a8c429fb870dc8b59f8b
+      internalID: 434605550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f575bfb3afd04a9e6443a75a788b8
+      internalID: 89291202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458a97f56a4008479d1d7026cec2896
+      internalID: 589894895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1514b845726198d4b846820b08eda906
+      internalID: -723725147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241b2e616aa299448ae2857b7c97a127
+      internalID: -1382984237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7960ec4205239d479ee8e2f63eb960a
+      internalID: 894638861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 177
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39cccf9e53da145b166b66973e0c0b
+      internalID: -1688357759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 142
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50a6626cfe96a4ea4e568a79f7463e
+      internalID: 1868241998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 142
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4373fcdcb8f044e97da92c5c0d766b
+      internalID: 397213739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adcd5e8085c4e24da51e3a618dcf7f9
+      internalID: 191787776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c476ea37ec8ea140a55f225b87740bf
+      internalID: -676462293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b66a9e204232cb4eb105bf8332d1de4
+      internalID: 10964221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b82618a7ebe97a4b8dc3584f1bb3360
+      internalID: 432124512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd237adb125d3f54391c42d0dd0bc518
+      internalID: -1992967249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d72a680d829db47ae53d0d824bd156
+      internalID: -2070960101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131c9537cc8ca945b1cb4f4a75a81cb
+      internalID: -2068328753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e30a8ed84546f469c3c944f230ed87
+      internalID: -945927248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484d488216af974ebd3555b2528323c
+      internalID: -1826812040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7bf640ada90794ca3368575c939066
+      internalID: -1113634428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2063e55ec9b630b4c98da7c996666b0a
+      internalID: -888081853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b03c1aec540fc343bdc4dea5ca2f367
+      internalID: -294011572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 109
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e363e9e39b1f47b54105f56c2002c
+      internalID: 517048395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c7b6dd4b69994cae40963151510fb
+      internalID: 1984159394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 109
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30cb0b1bb246ff49b51288bf2644565
+      internalID: 971856947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 109
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd079e883ed7945b7b812c2dababad
+      internalID: -2042337985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 109
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed7e9a3dac7474fa03ca8a9c855d2a
+      internalID: -636377472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5303b713cdf34b89295c6af4d530d
+      internalID: 706193710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f13fbcaf197520499df17e4e8b4f815
+      internalID: -1785377719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d82a48217dc2468fd049b0c730480
+      internalID: 1277655719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 76
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512c5702a40b0245b674c5ec6a6de5d
+      internalID: -117321023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea854219d447ef740b70a62ff8188aba
+      internalID: 844928300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149db8b77488f6c4b806b4ab9d53417a
+      internalID: 428289708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e90a59f8239f46bd1afeaa7bf8e0c
+      internalID: 1116155837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ba1287f9864f4a9f6e5717a2ecd83
+      internalID: -705454441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 83
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf680ea8dbf77794b88e6b0fe07b494b
+      internalID: 1837372499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ab9ad7f57522459507b7d293ccb4c
+      internalID: 1063188636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52805063f7a13bf4aaa4d7c718a1e1fc
+      internalID: 563013053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 38
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c709c98fbc380468a4f7d0661614d1
+      internalID: 714450106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be04099c7c28c449392a998ce5f5fa
+      internalID: 797382627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 41
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af849ef77419a74f877b2ad12669b1d
+      internalID: 2051407881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d38349bb65c641a6e4b3bf114f848
+      internalID: -1833283205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5127a2294b50b47b340e0a3eb2288b
+      internalID: 1506981032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3776967dca5fa2428aa1fabfe42b441
+      internalID: -1785859860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f18c656dc123b4d8989f0b67ff705f
+      internalID: -1710873084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_59
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 37
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f515dccc7f8041a9c9a62eb4061a3
+      internalID: 1282530033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_61
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 54
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba97e00deca5d2148827eb756766747c
+      internalID: -1585200937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 55
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85118f059c237a14fa025f53c12a9439
+      internalID: -1006969674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 54
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a60f0ddbe0cc45921dd66c0a53465
+      internalID: 1424040681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f8ad575fd4774486e1d7b39a0b8ac
+      internalID: -931098003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fb8a99c8b9d44896668892e4786a0
+      internalID: 1747826633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cc025dca740f6439e61b3846d636af
+      internalID: 1879666884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e883597ca68f846b8058fb642aa027
+      internalID: -1466759965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f2ce499b7c774aa03d75d6618c9ec
+      internalID: 1248071119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa3fe5439a92dd48b285741995af1f7
+      internalID: 1336238180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_70
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311bbdf591a10246b7c662960b70748
+      internalID: 102034663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_71
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 38
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db57fe9643661bf4c8a2cc5e3e952e39
+      internalID: -1306400798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_72
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 39
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5bdb8420363b48a73908cd9e37891
+      internalID: -1995317184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_73
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 39
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2032ccf3f66bd094ea4d2d760b29a93e
+      internalID: 540522595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_74
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 39
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417cc9b239fbd54d8991d8ea0ab527c
+      internalID: -1680578165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_75
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 39
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af62e47c2dc2044be500f6bb652d00
+      internalID: 453559651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_0: -1391908882
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_1: -659687738
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_10: -1688357759
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_100: 1644224843
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_101: -228110072
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_102: -1836021773
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_103: -226898772
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_104: 269681514
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_105: -1085655419
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_106: 1605586476
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_107: 1710077617
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_108: 778956206
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_109: -1833177045
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_11: 1868241998
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_110: -662749309
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_111: 1249728049
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_112: 1686597871
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_113: 1527903066
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_114: 1544986266
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_115: -1581813079
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_116: -795386014
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_117: 664373060
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_118: 1807548683
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_119: 1846100275
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_12: 397213739
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_120: -195244134
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_121: -238815224
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_122: -68356620
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_123: 666920441
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_124: 2049813392
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_125: -1579230459
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_126: -277341564
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_127: -524689390
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_128: -1293330463
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_129: 319035865
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_13: 191787776
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_130: -26427683
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_131: -1998042837
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_132: -1413151728
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_133: -138008436
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_134: 1276948026
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_135: 326352356
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_136: -338039704
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_137: -1140978778
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_138: 1937871267
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_139: -85917198
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_14: -676462293
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_140: -975946372
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_141: 1495335439
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_142: -963619888
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_143: 1052575161
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_144: 117717742
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_15: 10964221
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_16: 432124512
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_17: -1992967249
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_18: -2070960101
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_19: -2068328753
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_2: 1955992687
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_20: -945927248
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_21: -1826812040
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_22: -1113634428
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_23: -888081853
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_24: -294011572
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_25: 517048395
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_26: 1984159394
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_27: 971856947
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_28: -2042337985
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_29: -636377472
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_3: -391446272
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_30: -1035209697
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_31: 260038050
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_32: 1057589030
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_33: -446466175
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_34: 2084354206
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_35: -2040805670
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_36: -1433781182
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_37: -1496886352
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_38: -280955604
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_39: 1882892222
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_4: 434605550
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_40: 1409454987
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_41: 706193710
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_42: -1785377719
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_43: 1277655719
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_44: -117321023
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_45: 844928300
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_46: 428289708
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_47: 1116155837
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_48: -705454441
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_49: 1837372499
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_5: 89291202
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_50: 1063188636
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_51: 563013053
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_52: 714450106
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_53: 797382627
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_54: 2051407881
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_55: -1833283205
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_56: 1506981032
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_57: -1785859860
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_58: -1710873084
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_59: 1282530033
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_6: 589894895
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_60: 2010466598
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_61: -1585200937
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_62: -1006969674
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_63: 1424040681
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_64: -931098003
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_65: 1747826633
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_66: 1879666884
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_67: -1466759965
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_68: 1248071119
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_69: 1336238180
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_7: -723725147
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_70: 102034663
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_71: -1306400798
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_72: -1995317184
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_73: 540522595
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_74: -1680578165
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_75: 453559651
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_76: -861664227
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_77: -1284032955
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_78: -431974632
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_79: 2030566750
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_8: -1382984237
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_80: -1393909305
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_81: 628322055
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_82: -1987137442
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_83: 1877579097
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_84: 931192143
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_85: 113716484
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_86: -1140833468
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_87: 669049698
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_88: 202101462
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_89: -1644204213
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_9: 894638861
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_90: 777005748
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_91: 147686363
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_92: -1131698070
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_93: 1882379095
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_94: -1084227147
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_95: 1804619127
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_96: -822421194
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_97: 208212517
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_98: 1101963723
+      Neo Geo NGCD - Metal Slug 3 - Big Eyes_99: -1494323514
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

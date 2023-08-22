@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 7b4bb2917cc04fe49a8791e7876b8240
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 437
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c30cbc52540004681b0fc8f7b1f036
+      internalID: -855494843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 437
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95b8b8ee402b54cb9ae1e5044d1e77
+      internalID: 1134033011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 349
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21a7f0ce494604fae1e2cea8430427
+      internalID: 788879688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 349
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e480552c139631b42b50e433e7885304
+      internalID: 1375630315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 349
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e97f8d675ab574dad3affd385904a5
+      internalID: -1682864110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 349
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b580f765aca77a242ba0d95ffcc72dd6
+      internalID: 1218201544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 402
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b347f0c43eb004a8d18ed749d9a348
+      internalID: -980980577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 402
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316500c4076c2614eadfc3d2b33e2e45
+      internalID: 770054218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 402
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdb91115b138ac488c19b5958fb883d
+      internalID: 789133375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 402
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab0a0171dd87b479f3e492d0af13bb
+      internalID: -560244629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 401
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee476538d06434419f9e839f8f06066
+      internalID: 1467787444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 401
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996882bb64760484e835ae774ce2c731
+      internalID: -391583663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 401
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07980863be72d4d9905f2744c58b7a
+      internalID: 96358185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438eaf4379425c24ca4eb175d740d1c4
+      internalID: -2050666366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 367
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbaa2baaafe9884ca0b7fb8c523680f
+      internalID: 1408870419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 367
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf0a32338ca6c498e1ac056f29b48b
+      internalID: -351841505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 367
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7b578fc7f7104c94e22c411eb332f
+      internalID: 1700457611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6c7681573d8048987f635c70d3300
+      internalID: -972525772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f99e75a93c23d4d8742283ce8bc7cf
+      internalID: 340481386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb380503455b2545b50ac7e597971f0
+      internalID: 558332868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 304
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345dabd5ec513347b16ff91c36f5a01
+      internalID: 359759440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 226
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15322d3aa93524ca9d963a5aa9fee7
+      internalID: 1906886960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 226
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd6672086b4a7a498af78c8d3647ab8
+      internalID: 1119617543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 226
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800309bc126f1949b45be2c84418ddd
+      internalID: 1197968498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_24
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 226
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527b02dc82e03da43afec5676f3563a0
+      internalID: 1475610472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae36cfb3eb3954fab7417a289df3d2
+      internalID: -255543940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74822b62c1470641836b1c32d6aaf23
+      internalID: 656155050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 67
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab8b2ccadc28146b5780d9925476c5
+      internalID: -896740235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92332f23d5bbe64b8acf87834578388
+      internalID: 475388941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4182d23e34c6444bb2241ecc75957b8
+      internalID: 1991017836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 103
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d782351469d2a944b891e0797de47f56
+      internalID: 1833302463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 103
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce186b9401cb5a4983aeac2c9d27415
+      internalID: -184025352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 103
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59531dfa9de894d4eacbb59ff04c181f
+      internalID: 179491777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 103
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5323757a2998641b12af4d4e9c75f1
+      internalID: -541578213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 41
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854409e7da83ca48aa4efcde9dcd6df
+      internalID: 779346813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 82
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a7616cc2c32542a1d355400199d72
+      internalID: 980289504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_36
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf842637c63fab40885d5c0acced451
+      internalID: -1034167214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal Slug 3 - Select Screen 1_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 15
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d624a14b259d714cb980cf1d635399c
+      internalID: 1233374583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Metal Slug 3 - Select Screen 1_0: -855494843
+      Metal Slug 3 - Select Screen 1_1: 1134033011
+      Metal Slug 3 - Select Screen 1_10: 1467787444
+      Metal Slug 3 - Select Screen 1_11: -391583663
+      Metal Slug 3 - Select Screen 1_12: 96358185
+      Metal Slug 3 - Select Screen 1_13: -2050666366
+      Metal Slug 3 - Select Screen 1_14: 1408870419
+      Metal Slug 3 - Select Screen 1_15: -351841505
+      Metal Slug 3 - Select Screen 1_16: 1700457611
+      Metal Slug 3 - Select Screen 1_17: -972525772
+      Metal Slug 3 - Select Screen 1_18: 340481386
+      Metal Slug 3 - Select Screen 1_19: 558332868
+      Metal Slug 3 - Select Screen 1_2: 788879688
+      Metal Slug 3 - Select Screen 1_20: 359759440
+      Metal Slug 3 - Select Screen 1_21: 1906886960
+      Metal Slug 3 - Select Screen 1_22: 1119617543
+      Metal Slug 3 - Select Screen 1_23: 1197968498
+      Metal Slug 3 - Select Screen 1_24: 1475610472
+      Metal Slug 3 - Select Screen 1_25: -255543940
+      Metal Slug 3 - Select Screen 1_26: 656155050
+      Metal Slug 3 - Select Screen 1_27: -896740235
+      Metal Slug 3 - Select Screen 1_28: 475388941
+      Metal Slug 3 - Select Screen 1_29: 1991017836
+      Metal Slug 3 - Select Screen 1_3: 1375630315
+      Metal Slug 3 - Select Screen 1_30: 1833302463
+      Metal Slug 3 - Select Screen 1_31: -184025352
+      Metal Slug 3 - Select Screen 1_32: 179491777
+      Metal Slug 3 - Select Screen 1_33: -541578213
+      Metal Slug 3 - Select Screen 1_34: 779346813
+      Metal Slug 3 - Select Screen 1_35: 980289504
+      Metal Slug 3 - Select Screen 1_36: -1034167214
+      Metal Slug 3 - Select Screen 1_37: 1233374583
+      Metal Slug 3 - Select Screen 1_4: -1682864110
+      Metal Slug 3 - Select Screen 1_5: 1218201544
+      Metal Slug 3 - Select Screen 1_6: -980980577
+      Metal Slug 3 - Select Screen 1_7: 770054218
+      Metal Slug 3 - Select Screen 1_8: 789133375
+      Metal Slug 3 - Select Screen 1_9: -560244629
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
