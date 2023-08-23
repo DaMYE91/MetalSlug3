@@ -12,8 +12,11 @@ GameObject:
   - component: {fileID: 8931508771282536542}
   - component: {fileID: 2250035528399704320}
   - component: {fileID: 973641736071427938}
+  - component: {fileID: 139205589106751769}
+  - component: {fileID: 2391403834924952542}
+  - component: {fileID: -5388924654437016015}
   m_Layer: 0
-  m_Name: ShotGun
+  m_Name: ShotGunSpace
   m_TagString: BulletItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -133,3 +136,46 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.90909094}
   m_EdgeRadius: 0
+--- !u!114 &139205589106751769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8931508771282536537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a302e10ad32cb34c991cf27eb034ee4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 350
+--- !u!114 &2391403834924952542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8931508771282536537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b46c4ec3918634bb76f3fac15e40b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ammoType: 0
+  ammoAmount: 0
+--- !u!114 &-5388924654437016015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8931508771282536537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d885f8eb19e3ab741ac357fdb5f2cafd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ammoCounts: 
+  bulletPrefab: {fileID: 0}
+  bulletSpawnPoint: {fileID: 0}
+  bulletSpeed: 10

@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 3244390414449931670}
   - component: {fileID: 2133753614398288876}
   - component: {fileID: 928896693855920693}
-  - component: {fileID: 894696939392739765}
   m_Layer: 0
   m_Name: RoketGun
   m_TagString: BulletItem
@@ -134,16 +133,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.90909094}
   m_EdgeRadius: 0
---- !u!114 &894696939392739765
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3244390414449931665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a302e10ad32cb34c991cf27eb034ee4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 350
