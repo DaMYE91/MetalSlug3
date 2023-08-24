@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -67,10 +67,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,301 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mission5BackGround2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 41
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2941c5f7427c42aa4f81e785d01fc
+      internalID: -1449526313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 10
+        width: 53
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a333641a4bc65414981638b822d03641
+      internalID: 1235084025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 54
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee2e4604b123d45a788cde55eac602
+      internalID: -1789203539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 53
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4620cde7baa962943a15b21d2f8714ff
+      internalID: 1808861602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 52
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc275049fecbc31469eaf08d3f3e5e23
+      internalID: -1451610803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 80
+        width: 304
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1863901923f17444ad9744791db2f16
+      internalID: -681514741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 225
+        width: 304
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089a6b03e7c0f24eb19524c0807dac0
+      internalID: 1269445599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 233
+        width: 304
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5362a8f0a85b6d940ac55a854a7dab9b
+      internalID: 1796497143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 176
+        width: 304
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32a3738a968791449590738fd64d399
+      internalID: 1931730286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 168
+        width: 304
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463352d2427de14090e494777977a22
+      internalID: -1043754819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_41
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 111
+        width: 304
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7705e198384ffd41b9afe9861d085de
+      internalID: 1839857665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_90
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 19
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8389b8db4a604d997c8bd5c2af011
+      internalID: 214806326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_91
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 19
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d955702cad73e40a2da79fdd6e9fbc
+      internalID: 1457514421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission5BackGround2_92
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 19
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698f6613e445374dbc31ac789c09873
+      internalID: -1620615221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +420,112 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mission5BackGround2_0: -1449526313
+      Mission5BackGround2_1: 1235084025
+      Mission5BackGround2_10: -32976347
+      Mission5BackGround2_100: 747918045
+      Mission5BackGround2_101: -602127734
+      Mission5BackGround2_102: -1570303879
+      Mission5BackGround2_103: -1915689651
+      Mission5BackGround2_104: -387462333
+      Mission5BackGround2_11: 719659321
+      Mission5BackGround2_12: 1609768871
+      Mission5BackGround2_13: 1504179077
+      Mission5BackGround2_14: -127921149
+      Mission5BackGround2_15: 196282031
+      Mission5BackGround2_16: 510757779
+      Mission5BackGround2_17: -631564615
+      Mission5BackGround2_18: -1973560433
+      Mission5BackGround2_19: 1931730286
+      Mission5BackGround2_2: -1789203539
+      Mission5BackGround2_20: 322971206
+      Mission5BackGround2_21: -983177179
+      Mission5BackGround2_22: 87394598
+      Mission5BackGround2_23: 1344514708
+      Mission5BackGround2_24: -1043754819
+      Mission5BackGround2_25: 1495938115
+      Mission5BackGround2_26: 736337394
+      Mission5BackGround2_27: -814528576
+      Mission5BackGround2_28: 1813381854
+      Mission5BackGround2_29: 1660828268
+      Mission5BackGround2_3: 1808861602
+      Mission5BackGround2_30: -1354648542
+      Mission5BackGround2_31: -387232918
+      Mission5BackGround2_32: -1705418990
+      Mission5BackGround2_33: -1732100708
+      Mission5BackGround2_34: -1570762625
+      Mission5BackGround2_35: 1485433985
+      Mission5BackGround2_36: 12730819
+      Mission5BackGround2_37: 1494640979
+      Mission5BackGround2_38: -1387591898
+      Mission5BackGround2_39: -129508895
+      Mission5BackGround2_4: -1451610803
+      Mission5BackGround2_40: 148042117
+      Mission5BackGround2_41: 1839857665
+      Mission5BackGround2_42: 1874637803
+      Mission5BackGround2_43: 789502028
+      Mission5BackGround2_44: -2126727123
+      Mission5BackGround2_45: 231223221
+      Mission5BackGround2_46: 1253296004
+      Mission5BackGround2_47: 1862032434
+      Mission5BackGround2_48: -1353011824
+      Mission5BackGround2_49: -1312441733
+      Mission5BackGround2_5: -681514741
+      Mission5BackGround2_50: -766157226
+      Mission5BackGround2_51: 1166214557
+      Mission5BackGround2_52: -1488121906
+      Mission5BackGround2_53: 892710634
+      Mission5BackGround2_54: 1355252235
+      Mission5BackGround2_55: 375886043
+      Mission5BackGround2_56: -1626332770
+      Mission5BackGround2_57: -1218655501
+      Mission5BackGround2_58: -530330298
+      Mission5BackGround2_59: 260130686
+      Mission5BackGround2_6: 1269445599
+      Mission5BackGround2_60: -1433905535
+      Mission5BackGround2_61: -194802167
+      Mission5BackGround2_62: 611851084
+      Mission5BackGround2_63: 482174813
+      Mission5BackGround2_64: 1797097327
+      Mission5BackGround2_65: 1829244066
+      Mission5BackGround2_66: 1365689458
+      Mission5BackGround2_67: -695322857
+      Mission5BackGround2_68: -664259716
+      Mission5BackGround2_69: -1449811595
+      Mission5BackGround2_7: -1917840372
+      Mission5BackGround2_70: -766891125
+      Mission5BackGround2_71: 1856448265
+      Mission5BackGround2_72: 634021683
+      Mission5BackGround2_73: -1916134043
+      Mission5BackGround2_74: -1900178411
+      Mission5BackGround2_75: -123153281
+      Mission5BackGround2_76: 1818564183
+      Mission5BackGround2_77: 244953451
+      Mission5BackGround2_78: -1314662378
+      Mission5BackGround2_79: -2032821220
+      Mission5BackGround2_8: 1796497143
+      Mission5BackGround2_80: 348368942
+      Mission5BackGround2_81: -1274663527
+      Mission5BackGround2_82: 1206354635
+      Mission5BackGround2_83: -2062748163
+      Mission5BackGround2_84: 1386559732
+      Mission5BackGround2_85: -197808709
+      Mission5BackGround2_86: -990774204
+      Mission5BackGround2_87: -178446953
+      Mission5BackGround2_88: 1607393786
+      Mission5BackGround2_89: -751349424
+      Mission5BackGround2_9: 1951026304
+      Mission5BackGround2_90: 214806326
+      Mission5BackGround2_91: 1457514421
+      Mission5BackGround2_92: -1620615221
+      Mission5BackGround2_93: 1766178620
+      Mission5BackGround2_94: -1812678165
+      Mission5BackGround2_95: 2087727138
+      Mission5BackGround2_96: -314051267
+      Mission5BackGround2_97: 437953653
+      Mission5BackGround2_98: -1085892370
+      Mission5BackGround2_99: 1832568638
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

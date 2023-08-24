@@ -115,7 +115,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BackGroundAnim_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 249
+        width: 185
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a432dbddc673ad45aee1df616132b8a
+      internalID: 1162552664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 249
+        width: 235
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d3e63d4b642f4e98821ab99645826
+      internalID: 1651250122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 249
+        width: 304
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c727152c198aff4a88ae56b89c4aded
+      internalID: -2136673525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 249
+        width: 304
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ce648f890b7e4194212d30b5b0f38
+      internalID: -545649348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 304
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a91e764a902a438736378a7d2f9cc
+      internalID: 2132047264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 186
+        width: 304
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4d356ef1829a4fab75f1b8cb907b8
+      internalID: 1885396968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_20
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 183
+        width: 304
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20dd021a5ce81841b55ad055440d4e5
+      internalID: 1010418437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_21
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 183
+        width: 304
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8bd569da7120d41a8d5c146b643dd0
+      internalID: -668122500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 129
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71f9c05f500fbd4fb377893ed798819
+      internalID: -410797811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 159
+        width: 127
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612c0aa603285d4d8b06fe10aa13711
+      internalID: 1726324199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 159
+        width: 127
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae39c3a5f3810543b8cc0bb7f3f7420
+      internalID: -959395471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33a7a7353a3cb4b9bd54b7cee88d57
+      internalID: -1150067649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 173
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8bdded3bd5cf49bcfa56aa0a392d5
+      internalID: 596279807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2
+        width: 176
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e02d2b37a7354c98f1ba908bf600d
+      internalID: 279164999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1
+        width: 172
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d5b6dda8b80f4b8e791797d25698b
+      internalID: -1149889872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAnim_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 159
+        width: 129
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2856e2919420744bfc7a869da44bb3
+      internalID: -1470970739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +462,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BackGroundAnim_0: 1162552664
+      BackGroundAnim_1: 1651250122
+      BackGroundAnim_10: -766638508
+      BackGroundAnim_11: 1844978013
+      BackGroundAnim_12: 1604037523
+      BackGroundAnim_13: -1481856295
+      BackGroundAnim_14: -1119755168
+      BackGroundAnim_15: 1814991277
+      BackGroundAnim_16: 1251235306
+      BackGroundAnim_17: -707812160
+      BackGroundAnim_18: 2132047264
+      BackGroundAnim_19: 1885396968
+      BackGroundAnim_2: -2136673525
+      BackGroundAnim_20: 1010418437
+      BackGroundAnim_21: -668122500
+      BackGroundAnim_22: -410797811
+      BackGroundAnim_23: 1726324199
+      BackGroundAnim_24: -959395471
+      BackGroundAnim_25: -1150067649
+      BackGroundAnim_26: 596279807
+      BackGroundAnim_27: 279164999
+      BackGroundAnim_28: -1149889872
+      BackGroundAnim_3: -545649348
+      BackGroundAnim_4: -1470970739
+      BackGroundAnim_5: -1251911970
+      BackGroundAnim_6: 1257332492
+      BackGroundAnim_7: 1933913051
+      BackGroundAnim_8: 1649569328
+      BackGroundAnim_9: -1794131038
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
