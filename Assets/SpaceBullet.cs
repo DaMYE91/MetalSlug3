@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class SpaceBullet : MonoBehaviour
 {
-
     public enum SpaceBulletType
     {
         Laser,
@@ -38,7 +37,6 @@ public class SpaceBullet : MonoBehaviour
 
     void FixedUpdate()
     {
-        // √—æÀ¿ª ¿ÃµøΩ√≈µ¥œ¥Ÿ.
         rb.velocity = transform.up * speed;
     }
 
