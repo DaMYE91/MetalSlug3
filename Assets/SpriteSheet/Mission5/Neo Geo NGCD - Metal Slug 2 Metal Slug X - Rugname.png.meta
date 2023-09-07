@@ -101,9 +101,1713 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1103
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ef63d079904f1eb111c831c60bf0b
+      internalID: 105131217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1002
+        width: 304
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e16220e5ba04af59c8954bd406386f
+      internalID: 450562898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1002
+        width: 304
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d7210a8e054d59a04fa2a15cc16b1
+      internalID: 1524127317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1002
+        width: 304
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6876591f74a74993ba16938fa813165
+      internalID: 400758017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 949
+        width: 256
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4868066b6849427fba6e941f43ad7d1
+      internalID: -1030208853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 949
+        width: 256
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd977797c8e914e5da8cb406c3436b64
+      internalID: -1636741842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 949
+        width: 256
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b881595886143f0ab3635b82abfc2d
+      internalID: -1892455352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 919
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860fe864b6604b2cb736c1488305db3
+      internalID: -138281079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 919
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34161717b5c8247868ad233d2ecc6a8d
+      internalID: -250736544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 844
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c634727896b5490483cd630dea8cd1b
+      internalID: -2125045057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 822
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61007fe0443e84195a4c6d6ad70f782d
+      internalID: -577228490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 844
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea077e524858444988d9e19eb52db409
+      internalID: -643043487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 814
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a522d1c377104472f8a214f0fe971cbe
+      internalID: -688709831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 842
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eebf78a4453142fc898f1d98642cd5d
+      internalID: -78975030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 803
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a87650bcf774fdb8e8d3d586865ad0
+      internalID: -1942709876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 787
+        width: 167
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17d7e45bbd348bfafb438a5940e31f
+      internalID: -1591684598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 783
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16adfcbb2306244b88ea4b5e22c23e64
+      internalID: -183383875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 787
+        width: 180
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e94a4ae13694187b312ee6768f8f08
+      internalID: 1957704561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 764
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4ae68c66eb44899573d6a61404a04
+      internalID: -848751146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 764
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05beda5fa423a4c09b70efeb1e6b8e12
+      internalID: -2080548018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 764
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b713224755a44d09a7e78febe740b7
+      internalID: 2059015661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 764
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1e3838f30840c382cab7540ef39ae
+      internalID: 1437575415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 691
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd0fc40a39d45dba72a899ad2054e1
+      internalID: 1442048828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 669
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759eafe6949984e7591efe8c2c0328be
+      internalID: -1286143071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 691
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5ca0a292514e67925b43db0515988
+      internalID: -725107181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 662
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c426a035a341429d9a61f0a2b48309a
+      internalID: 163214614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 689
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e729bd4aae4cc7a2ef549a2474615
+      internalID: -1221898348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 650
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3e28b609ec4ff089675852835dbb5
+      internalID: 928283555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 570
+        width: 52
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecc432220f2b4ce89e47fb0329d6ddf
+      internalID: -1683010724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 594
+        width: 62
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3f8c546698446499c9a8efe0c2017
+      internalID: -646438500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_30
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 594
+        width: 62
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b3a23b390ca4f93a46e15baaaa1184
+      internalID: 535436093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_31
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 594
+        width: 62
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c29d4a7966c4395a6b647b60f4f308
+      internalID: 1698266085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_32
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 594
+        width: 58
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc84676f28f642a39e5be94542543f2
+      internalID: -1127875345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 594
+        width: 52
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add04f1d5e0fe4f8fa84f9ef46612dc4
+      internalID: -1631675856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_34
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 594
+        width: 50
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec15b966c5be4379a020263c7f859de
+      internalID: -797947739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 594
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9456a4da0d2540cea1044c81fa40128
+      internalID: -643517694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_36
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 594
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6192c10bec54ee0838b4ee885d2541
+      internalID: -174457553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_37
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 594
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4af2c5bd9ce74a5ab40c494cef99ed6
+      internalID: 1029854378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_38
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 594
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19edb52941a4833b5e86e0591229d6
+      internalID: 53426898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_39
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 594
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68d1447a30449fd95e74be6a4c66cd
+      internalID: 1804233648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_40
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 594
+        width: 49
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1cd8b38aa4341a28e110d0c758a31a
+      internalID: -118460474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_41
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 596
+        width: 49
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3d662f66f54c34a87dd61f0a001aa
+      internalID: -1059425178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_42
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 597
+        width: 49
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b338905aa546598bbe0cc4583c071
+      internalID: -1571873890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 581
+        width: 111
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271923fcfbe440b885584f1de53d363
+      internalID: -1602287864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_44
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 577
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed5bfc58d2747ee9ba9a63ed78e4f7
+      internalID: 1297130457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_45
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 581
+        width: 111
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a4f816b0ef4aa68e5ff74d3461bc0
+      internalID: 131763078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 546
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a9c767fedc4e7792a25a17e91aca7
+      internalID: 1785160155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_47
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 476
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ee6acaa3094960aa3b87ac153dbb7
+      internalID: 195253014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_48
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 476
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f56e7e03d36e4df1bac9d74829b9b5f
+      internalID: -2028722410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 508
+        width: 81
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e529398b4045abb6c119d522def71
+      internalID: 604722073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 505
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2fbd1db8c8c4c0097105844a4cb41a
+      internalID: 748144110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 503
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbaa96a7e691488a877b4f068d4a1c8
+      internalID: -1401938837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 501
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba620a04dde67434cb54a25128ee94f0
+      internalID: -1703260932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 499
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f905e2cc6dfe4452ae5f1a4868dc126
+      internalID: -634377762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_54
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 497
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5c706d1616d4b27b695fb03d016632
+      internalID: -914635370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_55
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 502
+        width: 78
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4921d2889d644f4a279d9cb0d0e386
+      internalID: 1683628844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_56
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 501
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a2548750be41fda5afbd8ce6847df
+      internalID: -1949771070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_57
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 499
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af29bbc97e5a54473996244dffc75d60
+      internalID: 707706021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_58
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 499
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bddd2b841f143c7a21b9eb90f2bde8
+      internalID: 1770386643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_59
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 503
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214c876387304704bfcf422c97b1e87
+      internalID: 1287578055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_60
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 502
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9da3bc66c04f3ebedc3e3091f7108
+      internalID: -2031860391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_61
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 499
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f20f0f55f9f4b809c00bc0aeb25593
+      internalID: -1640813534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_62
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 499
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40626b51c42c4b77a9ede619d802482
+      internalID: -683402977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 476
+        width: 314
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986cebe968de47a6b697359ace55f63
+      internalID: -1163567106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 472
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00983478b70a4469b30b35db2103a77
+      internalID: -2123806430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_65
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 476
+        width: 314
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b35f40b964f4edbb11c349a8fa6c8a
+      internalID: -1914068034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_66
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 476
+        width: 167
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa61ea30764364e488454e0f2860a83e
+      internalID: -914482825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_67
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 472
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf8ca730a33641e1bf9e2dd809d3aba
+      internalID: 1254021070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_68
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 476
+        width: 180
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a44f1461b5a4c4eba8316f22810db8
+      internalID: -531224449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 420
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acd6c241405f45d2b1510f1e0054751
+      internalID: -1842709101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 290
+        width: 304
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a32d4dd25504d14b4b7af16d5d4720
+      internalID: -1638077987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 136
+        width: 304
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa5e660589724036af9604764456134
+      internalID: 1744892909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_72
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 269
+        width: 415
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170f5d989f3c4475b808a3e122707eb
+      internalID: 1959857469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_73
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 67
+        width: 253
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a91f8626ea4b84ad70ca44a2b0f99
+      internalID: -1117957336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_74
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 25
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eaf4ced61014bfaae8456f01dadbb3
+      internalID: 849472785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_75
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 25
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5cf1519a9644de84486949f9d089b
+      internalID: 1116339185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_76
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 25
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b57bfa0c53450ea305a1c48178607
+      internalID: -1795139993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_77
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 13
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119bec47db0e47c1a88c6025a6539f8
+      internalID: 1919210986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_78
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 13
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8763dd7ea041ffa7d21618e2701f2
+      internalID: -94996650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_79
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 13
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1efdb9e6e14412b8430ac1e065f574
+      internalID: -148942283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +1818,87 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_0: 105131217
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_1: 450562898
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_10: -577228490
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_11: -643043487
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_12: -688709831
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_13: -78975030
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_14: -1942709876
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_15: -1591684598
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_16: -183383875
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_17: 1957704561
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_18: -848751146
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_19: -2080548018
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_2: 1524127317
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_20: 2059015661
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_21: 1437575415
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_22: 1442048828
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_23: -1286143071
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_24: -725107181
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_25: 163214614
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_26: -1221898348
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_27: 928283555
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_28: -1683010724
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_29: -646438500
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_3: 400758017
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_30: 535436093
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_31: 1698266085
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_32: -1127875345
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_33: -1631675856
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_34: -797947739
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_35: -643517694
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_36: -174457553
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_37: 1029854378
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_38: 53426898
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_39: 1804233648
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_4: -1030208853
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_40: -118460474
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_41: -1059425178
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_42: -1571873890
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_43: -1602287864
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_44: 1297130457
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_45: 131763078
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_46: 1785160155
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_47: 195253014
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_48: -2028722410
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_49: 604722073
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_5: -1636741842
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_50: 748144110
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_51: -1401938837
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_52: -1703260932
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_53: -634377762
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_54: -914635370
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_55: 1683628844
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_56: -1949771070
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_57: 707706021
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_58: 1770386643
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_59: 1287578055
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_6: -1892455352
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_60: -2031860391
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_61: -1640813534
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_62: -683402977
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_63: -1163567106
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_64: -2123806430
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_65: -1914068034
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_66: -914482825
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_67: 1254021070
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_68: -531224449
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_69: -1842709101
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_7: -138281079
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_70: -1638077987
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_71: 1744892909
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_72: 1959857469
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_73: -1117957336
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_74: 849472785
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_75: 1116339185
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_76: -1795139993
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_77: 1919210986
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_78: -94996650
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_79: -148942283
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_8: -250736544
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Rugname_9: -2125045057
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // ÁÂ¿ì ÀÌµ¿
+        // ï¿½Â¿ï¿½ ï¿½Ìµï¿½
         float moveHorizontal = 0f;
         float moveVertical = 0f;
 
@@ -39,7 +39,7 @@ public class PlayerMovement : MonoBehaviour
 
         rb.velocity = new Vector2(moveHorizontal * movementSpeed, rb.velocity.y);
 
-        // ÁÂ¿ì ¹æÇâ ¼³Á¤
+        // ï¿½Â¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         if (moveHorizontal > 0)
         {
             transform.localScale = new Vector3(1f, 1f, 1f);
@@ -49,13 +49,13 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = new Vector3(-1f, 1f, 1f);
         }
 
-        // Á¡ÇÁ
+        // ï¿½ï¿½ï¿½ï¿½
         if (isGrounded && Input.GetKeyDown(KeyCode.W))
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
 
-        // ¼÷ÀÌ±â
+        // ï¿½ï¿½ï¿½Ì±ï¿½
         if (Input.GetKeyDown(KeyCode.S))
         {
             isCrouching = true;
@@ -65,15 +65,15 @@ public class PlayerMovement : MonoBehaviour
             isCrouching = false;
         }
 
-        // ¾Ö´Ï¸ÞÀÌ¼Ç ¼³Á¤
+        // ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½ï¿½
         animator.SetFloat("Speed", Mathf.Abs(moveHorizontal));
         animator.SetBool("IsCrouching", isCrouching);
-        animator.SetBool("IsJumping", !isGrounded); // Á¡ÇÁ Áß¿¡µµ Á¡ÇÁ ¾Ö´Ï¸ÞÀÌ¼Ç Àç»ý
+        animator.SetBool("IsJumping", !isGrounded); // ï¿½ï¿½ï¿½ï¿½ ï¿½ß¿ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½
     }
 
     private void OnCollisionStay2D(Collision2D collision)
     {
-        // ¹Ù´Ú°úÀÇ Ãæµ¹ °¨Áö
+        // ï¿½Ù´Ú°ï¿½ï¿½ï¿½ ï¿½æµ¹ ï¿½ï¿½ï¿½ï¿½
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
@@ -82,7 +82,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionExit2D(Collision2D collision)
     {
-        // ¹Ù´Ú°úÀÇ Ãæµ¹ Á¾·á °¨Áö
+        // ï¿½Ù´Ú°ï¿½ï¿½ï¿½ ï¿½æµ¹ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;

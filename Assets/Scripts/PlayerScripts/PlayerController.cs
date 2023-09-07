@@ -3,26 +3,26 @@
 //public class PlayerController : MonoBehaviour
 //{
 
-//    // ÇÃ·¹ÀÌ¾î ÀÌµ¿ °ü·Ã º¯¼ö
+//    // ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ ï¿½Ìµï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //    public float movementSpeed = 5f;
 //    public float jumpForce = 5f;
 //    private bool isJumping = false;
 //    private bool isCrouching = false;
 
-//    // °ø°Ý °ü·Ã º¯¼ö
+//    // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //    public int meleeDamage = 1;
 //    public float meleeAttackRate = 0.5f;
 //    public float meleeAttackRange = 1.0f;
 //    private float nextMeleeAttackTime = 0f;
 
-//    // ÃÑ¾Ë°ú ÆøÅº ¹ß»ç °ü·Ã º¯¼ö
+//    // ï¿½Ñ¾Ë°ï¿½ ï¿½ï¿½Åº ï¿½ß»ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //    public Transform firePoint;
 //    public GameObject HeavyBulletPrefab;
 //    public GameObject ShotBulletPrefab;
 //    public GameObject FireBulletPrefab;
 //    public GameObject bombPrefab;
 
-//    // ÃÑ¾Ë°ú ÆøÅº Åº¾à °ü·Ã º¯¼ö
+//    // ï¿½Ñ¾Ë°ï¿½ ï¿½ï¿½Åº Åºï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //    public int maxHeavyMachineGunAmmo = 200;
 //    public int maxLaserGunAmmo = 200;
 //    public int maxShotGunAmmo = 30;
@@ -32,7 +32,7 @@
 //    public int maxIronGun = 30;
 //    public int maxDropShot = 30;
 //    public int maxSuperGrenadeGun = 30;
-//    //public int maxBombAmmo = 10; ÆøÅºÀ» ¾î¶² ½ÄÀ¸·Î µî·ÏÇÒÁö °í¹ÎÁß
+//    //public int maxBombAmmo = 10; ï¿½ï¿½Åºï¿½ï¿½ ï¿½î¶² ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //    private int currentHeavyMachineGunAmmo;
 //    private int currentLaserGunAmmo;
 //    private int currentShotGunAmmo;
@@ -44,7 +44,7 @@
 //    private int currentSuperGun;
 //    //private int currentBombAmmo; //////
 
-//    // Ä«¸Þ¶óÀÇ ¹üÀ§¸¦ Á¤ÀÇÇÒ º¯¼ö
+//    // Ä«ï¿½Þ¶ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //    public float cameraMinX;
 //    public float cameraMaxX;
 
@@ -64,7 +64,7 @@
 
 //    void Update()
 //    {
-//        // Å° ÀÔ·Â °¨Áö
+//        // Å° ï¿½Ô·ï¿½ ï¿½ï¿½ï¿½ï¿½
 //        float moveHorizontal = Input.GetAxis("Horizontal");
 //        bool isJumpPressed = Input.GetButtonDown("Jump");
 //        bool isCrouchPressed = Input.GetKeyDown(KeyCode.S);
@@ -72,19 +72,19 @@
 //        bool isThrowPressed = Input.GetKeyDown(KeyCode.K);
 
 
-//        // ÁÂ¿ì ÀÌµ¿
+//        // ï¿½Â¿ï¿½ ï¿½Ìµï¿½
 //        float targetX = transform.position.x + moveHorizontal * movementSpeed * Time.deltaTime;
-//        targetX = Mathf.Clamp(targetX, cameraMinX, cameraMaxX); // ÇÃ·¹ÀÌ¾î À§Ä¡¸¦ Ä«¸Þ¶ó ¹üÀ§ ³»¿¡¼­ Á¦ÇÑ
+//        targetX = Mathf.Clamp(targetX, cameraMinX, cameraMaxX); // ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ ï¿½ï¿½Ä¡ï¿½ï¿½ Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //        transform.position = new Vector3(targetX, transform.position.y, transform.position.z);
 
 
-//        // ÁÂ¿ì ÀÌµ¿
+//        // ï¿½Â¿ï¿½ ï¿½Ìµï¿½
 //        transform.Translate(Vector2.right * moveHorizontal * movementSpeed * Time.deltaTime);
 
-//        // ÁÂ¿ì ÀÌµ¿ ¾Ö´Ï¸ÞÀÌ¼Ç ¼³Á¤
+//        // ï¿½Â¿ï¿½ ï¿½Ìµï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 //        animator.SetFloat("Speed", Mathf.Abs(moveHorizontal));
 
-//        // ÁÂ¿ì ¹æÇâ ¼³Á¤
+//        // ï¿½Â¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //        if (moveHorizontal > 0)
 //        {
 //            transform.localScale = new Vector3(1f, 1f, 1f);
@@ -94,7 +94,7 @@
 //            transform.localScale = new Vector3(-1f, 1f, 1f);
 //        }
 
-//        // Á¡ÇÁ
+//        // ï¿½ï¿½ï¿½ï¿½
 //        if (isJumpPressed && !isJumping)
 //        {
 //            GetComponent<Rigidbody2D>().AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
@@ -102,7 +102,7 @@
 //            animator.SetBool("IsJumping", true);
 //        }
 
-//        // ¼÷ÀÌ±â
+//        // ï¿½ï¿½ï¿½Ì±ï¿½
 //        if (isCrouchPressed)
 //        {
 //            isCrouching = true;
@@ -114,40 +114,40 @@
 //            animator.SetBool("IsCrouching", false);
 //        }
 
-//        // ±ÙÁ¢ °ø°Ý
+//        // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //        if (Time.time >= nextMeleeAttackTime)
 //        {
 //            if (isShootPressed)
 //            {
-//                MeleeAttack(); //±ÙÁ¢°ø°Ý
+//                MeleeAttack(); //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //                nextMeleeAttackTime = Time.time + 1f / meleeAttackRate;
 //            }
 //        }
 
-//        // ÃÑ¾Ë ¹ß»ç
+//        // ï¿½Ñ¾ï¿½ ï¿½ß»ï¿½
 //        if (isShootPressed)
 //        {
 //            ShootHeavyBullet();
 //        }
 
-//        // ÆøÅº ´øÁö±â
+//        // ï¿½ï¿½Åº ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //        if (isThrowPressed)
 //        {
-//            //ThrowBomb(); Æ÷¹°¼±À¸·Î ´øÁö±â
+//            //ThrowBomb(); ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //        }
 
-//        //Ãß°¡ÇØ¾ßÇÒ °Í (¸ðµç°Í¿¡ ¾Ö´Ï¸ÞÀÌ¼ÇÀ» ³Ö¾î¾ßÇÔ)
-//        //1. Á¡ÇÁ »óÅÂ¿¡¼­ ¾Æ·¡Å°¸¦ ´©¸£¸é ¾Æ·¡¸¦ º¸°ÔµÊ -> ±× »óÅÂ¿¡¼­ ÃÑ¾ËÀ» ¹ß»çÇÏ¸é ¾Æ·¡¸¦ ½ò ¼ö ÀÖÀ½ ****±âº» »óÅÂ¿¡¼­´Â ¾Æ·¡·Î ½÷ÁöÁö ¾ÊÀ½
-//        //2. Á¡ÇÁ »óÅÂÀÌ°Å³ª Á¡ÇÁ »óÅÂ°¡ ¾Æ´Ï¾îµµ -> À§¸¦ ÃÄ´Ùº¸°í ÃÑ¾ËÀ» ¹ß»çÇÏ¸é À§·Î ¹ß»çµÊ
-//        //3. ±âº» »óÅÂ¿¡¼­ ¾Æ·¡Å°¸¦ ´©¸¥ »óÅÂ·Î -> ÃÑ¾ËÀ» ¹ß»çÇÏ¸é ¼÷ÀÎ »óÅÂ·Î ÃÑ¾ËÀ» ¹ß»çÇÔ
-//        //4. Á¡ÇÁ »óÅÂ¿¡¼­ ÆøÅºÀ» ´øÁú ¼ö ÀÖÀ½ + ÃÑµµ ½ò ¼ö ÀÖÀ½
-//        //5. ÃÑ¾ËÀ» ¹ß»çÇÒ¶§ »óÃ¼´Â ÃÑ¾Ë¹ß»ç + ÇÏÃ¼´Â Á¡ÇÁ
+//        //ï¿½ß°ï¿½ï¿½Ø¾ï¿½ï¿½ï¿½ ï¿½ï¿½ (ï¿½ï¿½ï¿½Í¿ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ï¿½ï¿½ï¿½)
+//        //1. ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½ ï¿½Æ·ï¿½Å°ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ôµï¿½ -> ï¿½ï¿½ ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½ ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ß»ï¿½ï¿½Ï¸ï¿½ ï¿½Æ·ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ****ï¿½âº» ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+//        //2. ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì°Å³ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Â°ï¿½ ï¿½Æ´Ï¾îµµ -> ï¿½ï¿½ï¿½ï¿½ ï¿½Ä´Ùºï¿½ï¿½ï¿½ ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ß»ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ß»ï¿½ï¿½
+//        //3. ï¿½âº» ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½ ï¿½Æ·ï¿½Å°ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Â·ï¿½ -> ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ß»ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Â·ï¿½ ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ß»ï¿½ï¿½ï¿½
+//        //4. ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Â¿ï¿½ï¿½ï¿½ ï¿½ï¿½Åºï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ + ï¿½Ñµï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+//        //5. ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ß»ï¿½ï¿½Ò¶ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ ï¿½Ñ¾Ë¹ß»ï¿½ + ï¿½ï¿½Ã¼ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
 //    }
 
 //    void OnCollisionEnter2D(Collision2D collision)
 //    {
-//        // ¹Ù´Ú°úÀÇ Ãæµ¹ °¨Áö
+//        // ï¿½Ù´Ú°ï¿½ï¿½ï¿½ ï¿½æµ¹ ï¿½ï¿½ï¿½ï¿½
 //        if (collision.gameObject.CompareTag("Ground"))
 //        {
 //            isJumping = false;
@@ -155,15 +155,15 @@
 //        }
 //    }
 
-//    void PlayerDie() //ÇÃ·¹ÀÌ¾î°¡ Á×°í ³ª¼­ ³ªÅ¸³ª´Â
+//    void PlayerDie() //ï¿½Ã·ï¿½ï¿½Ì¾î°¡ ï¿½×°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å¸ï¿½ï¿½ï¿½ï¿½
 //    {
-//        //»óÈ²¿¡ µû¸¥ ÇÃ·¹ÀÌ¾î Á×´Â ¾Ö´Ï¸ÞÀÌ¼Ç
-//        //°ÔÀÓ¿À¹ö ¾À º¯°æ
+//        //ï¿½ï¿½È²ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ ï¿½×´ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½
+//        //ï¿½ï¿½ï¿½Ó¿ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 //    }
 
 //    void MeleeAttack()
 //    {
-//        animator.SetTrigger("MeleeAttack"); // ±ÙÁ¢ °ø°Ý ¾Ö´Ï¸ÞÀÌ¼Ç Àç»ý
+//        animator.SetTrigger("MeleeAttack"); // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½
 
 //        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, meleeAttackRange);
 //        foreach (Collider2D collider in hitEnemies)
@@ -194,11 +194,11 @@
 //            Instantiate(HeavyBulletPrefab, firePoint.position, firePoint.rotation);
 //            currentHeavyMachineGunAmmo--;
 
-//            //¸¸¾à¿¡ Àû¿¡°Ô ´êÀ¸¸é ´êÀº°÷¿¡ ÆÄ´å ÇÏ´Â ¾Ö´Ï¸ÞÀÌ¼Ç ½ÇÇà
+//            //ï¿½ï¿½ï¿½à¿¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ä´ï¿½ ï¿½Ï´ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 //        }
 //    }
 
-//    //void ThrowBomb() //ÆøÅº ´øÁö±â
+//    //void ThrowBomb() //ï¿½ï¿½Åº ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //    //{
 //    //    if (currentBombAmmo > 0)
 //    //    {
@@ -232,7 +232,7 @@
 //                currentRoketGunAmmo = Mathf.Clamp(currentRoketGunAmmo, 0, maxRoketGunAmmo);
 //                break;
 //            case AmmoItem.BulletType.HandGun:
-//                // ÀÏ¹Ý ÃÑ¾ËÀº ¹«Á¦ÇÑ
+//                // ï¿½Ï¹ï¿½ ï¿½Ñ¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 //                break;
 //        }
 //    }

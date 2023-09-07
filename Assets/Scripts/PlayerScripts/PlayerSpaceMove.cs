@@ -4,22 +4,37 @@ using UnityEngine;
 
 public class PlayerSpaceMove : MonoBehaviour
 {
-    public float moveSpeed = 5f; // ¿ìÁÖ¼±ÀÇ ¿òÁ÷ÀÓ ¼Óµµ
+    public float moveSpeed = 5f; // ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Óµï¿½
     private Rigidbody2D rb;
 
+    private BulletManager bulletManager;
+    
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+
+        bulletManager = GetComponent<BulletManager>();
+
     }
 
     void Update()
     {
-        // ÇÃ·¹ÀÌ¾î ÀÔ·ÂÀ» ¹Ş¾Æ ¿ìÁÖ¼±À» ¿òÁ÷ÀÌ´Â ·ÎÁ÷À» ±¸ÇöÇÕ´Ï´Ù.
+        // ï¿½Ã·ï¿½ï¿½Ì¾ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ ï¿½Ş¾ï¿½ ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½.
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
         Vector2 moveDirection = new Vector2(horizontalInput, verticalInput);
 
         rb.velocity = moveDirection.normalized * moveSpeed;
+
+
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            bool shotSuccessful = bulletManager.ShootBullet();
+            if (!shotSuccessful)
+            {
+                // ì´ì•Œ ë°œì‚¬ ì‹¤íŒ¨ ì²˜ë¦¬ (ì˜ˆ: ì´ì•Œì´ ë¶€ì¡±í•œ ê²½ìš°)
+            }
+        }
     }
 }

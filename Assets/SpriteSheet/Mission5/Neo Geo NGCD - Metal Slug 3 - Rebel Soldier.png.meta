@@ -101,9 +101,1062 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 708
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a79c4e5cf69d4e40be537735faacc35
+      internalID: 1748852796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f5d420a39c4a6d852275609510139
+      internalID: 1010958721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546efd6c7b72f49c8b626f78412ba368
+      internalID: -37072934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99d312c558142a2b150bebcbecd8b2
+      internalID: 2143283006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663dd86aa17bd4f2da3a7260dc050d87
+      internalID: -1009307080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc19cbf71fa4473ace4617d8885d51
+      internalID: 1910277792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e02160f16ce848448fc02cf040177e6
+      internalID: -942290718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e88e80194e4894b3e52587bc1395e
+      internalID: 1477772039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f63bd8455664f789940e370dc97998
+      internalID: 1983636961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d91e2c8a124f0e9d5d017ba4a164a
+      internalID: -1922237366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18a015577c3432483d93ff9c7dfbd7
+      internalID: -384671704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 708
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762c2c6d166948fd96b4a1a4f1cc67c
+      internalID: -77787871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1128
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3df9368d31142f283dfea122bd2944
+      internalID: -1914951708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2296
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de9447ceb0f4e3f9a31c0018df6de4
+      internalID: -21973062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2296
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d3c80bed6d4c93b8dc89b2f031327
+      internalID: 479895030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2296
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4fffb1d918345a8b5bfebf3bf61181
+      internalID: -82608065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2296
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f07c65d6de14834a7412bca24f1464
+      internalID: 468682264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2296
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8983beeb40a5641feb477a8babdb2da1
+      internalID: 791807024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2296
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaeb0d24e6854f50a5a93db5a116180
+      internalID: 1008381534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2296
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d5b8e7defc4213b1567d59a33cd25
+      internalID: -1563882892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2251
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf416dcfb3de44108f0f5831270dbf6
+      internalID: 145847095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2251
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6693e09df159f4afca203cba13f84726
+      internalID: -38837332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2251
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d7367635f9434599d528bb67a200d
+      internalID: -2043207255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_23
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2251
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341f38df478e4b6695924247daf9d34
+      internalID: 906816788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2251
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecabdbe92697149ffaacb68d966f60be
+      internalID: -152615866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2207
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b5fb01b225545f985a94d8b3896c28
+      internalID: -647590700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2206
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0619d3e37b3b241529b780e4bcb27c06
+      internalID: 1586803054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_27
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2206
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368310168c0b43269224e25df590461
+      internalID: -2009679051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2206
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd798b0b6488478b86ca5fbeb47ecff
+      internalID: -1557861487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2206
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983a5ffea345441e9d6e5cefd4b9532
+      internalID: 485642579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_30
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2206
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20d9cfbb8ca42c4b58700d10342a3f
+      internalID: -226519851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_31
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2205
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309e38b0c1a36424d8a9e53e1367a9a7
+      internalID: 2141605115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_32
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2205
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244bd5cb3db644f59bcd77771aa09d60
+      internalID: 1301626877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_33
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2205
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267f37f3545b4572b87e9d12ba13ce7
+      internalID: -320442484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2205
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ff4b5165154b6cb753250d88e62ad
+      internalID: -1927181998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2154
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b231cc865c2648d7838f133561a3233
+      internalID: -204450768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2154
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f141af67f346bf9fe5c4e7e4ae448
+      internalID: 2023011627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2154
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a4cfba0a754357ada3611a0a29857
+      internalID: -860366231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2154
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d23eb2b618449208dc0d5c2f24609e
+      internalID: 379963072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2154
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d684e79abd3b4127b6192e7fdd75e9d
+      internalID: 89316376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2154
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fbc2b10da2144cf9d54276afe5d861
+      internalID: -1802468725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2154
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73627f58ae3d24ec6842c203b0a60136
+      internalID: 1670455716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2154
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a203ee17fbbd24c47bac11d28f1a72e9
+      internalID: -1916111986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2154
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d02a1f21cf4a8ca8432facf2d5dd0
+      internalID: -2034667346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2154
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3645ecd2260e488ca09c8a8c35fb9df
+      internalID: -324901631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2154
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074b37d0646a489db597d38dd351ee8
+      internalID: -448382157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_46
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2154
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626ab8870f394ddb969b8b548646b0d
+      internalID: -1025759408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_47
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2154
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8f31c1df11a44f0a8b40af9369dac6
+      internalID: -1343566010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2154
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9883051802e34764b13ae2c850430ca
+      internalID: 482175042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +1167,56 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_0: -21973062
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_1: 1748852796
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_10: -1922237366
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_11: -384671704
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_12: -77787871
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_13: -1914951708
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_14: 479895030
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_15: -82608065
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_16: 468682264
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_17: 791807024
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_18: 1008381534
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_19: -1563882892
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_2: 1010958721
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_20: 145847095
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_21: -38837332
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_22: -2043207255
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_23: 906816788
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_24: -152615866
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_25: -647590700
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_26: 1586803054
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_27: -2009679051
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_28: -1557861487
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_29: 485642579
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_3: -37072934
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_30: -226519851
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_31: 2141605115
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_32: 1301626877
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_33: -320442484
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_34: -1927181998
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_35: -204450768
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_36: 2023011627
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_37: -860366231
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_38: 379963072
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_39: 89316376
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_4: 2143283006
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_40: -1802468725
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_41: 1670455716
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_42: -1916111986
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_43: -2034667346
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_44: -324901631
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_45: -448382157
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_46: -1025759408
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_47: -1343566010
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_48: 482175042
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_5: -1009307080
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_6: 1910277792
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_7: -942290718
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_8: 1477772039
+      Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_9: 1983636961
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

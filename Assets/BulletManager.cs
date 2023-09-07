@@ -11,6 +11,9 @@ public class BulletManager : MonoBehaviour
 
     private void Start()
     {
+        // 기본 총알 프리팹을 초기화
+        bulletPrefabs[0] = Resources.Load<GameObject>("BasicBulletPrefab"); // "BasicBulletPrefab"은 실제 프리팹 이름에 맞게 수정
+
         // 기본 총알은 무제한으로 초기화
         bulletCounts[0] = int.MaxValue;
 
