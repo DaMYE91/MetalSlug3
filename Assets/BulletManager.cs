@@ -12,7 +12,7 @@ public class BulletManager : MonoBehaviour
     private void Start()
     {
         // 기본 총알 프리팹을 초기화
-        bulletPrefabs[0] = Resources.Load<GameObject>("BasicBulletPrefab"); // "BasicBulletPrefab"은 실제 프리팹 이름에 맞게 수정
+        //bulletPrefabs[0] = Resources.Load<GameObject>("BasicBulletPrefab"); // "BasicBulletPrefab"은 실제 프리팹 이름에 맞게 수정
 
         // 기본 총알은 무제한으로 초기화
         bulletCounts[0] = int.MaxValue;
@@ -34,11 +34,11 @@ public class BulletManager : MonoBehaviour
     // 총알을 발사할 때 호출되는 함수
     public bool ShootBullet()
     {
-        if (currentBulletType == 0 || bulletCounts[currentBulletType] == 0)
-        {
-            // 현재 선택된 총알이 기본 총알이거나 해당 총알의 보유량이 0인 경우
-            return false; // 총알 발사 실패
-        }
+        //if (currentBulletType == 0 || bulletCounts[currentBulletType] == 0)
+        //{
+        //    // 현재 선택된 총알이 기본 총알이거나 해당 총알의 보유량이 0인 경우
+        //    return false; // 총알 발사 실패
+        //}
 
         bulletCounts[currentBulletType]--;
         // 여기에서 총알 프리팹을 사용하여 발사하도록 프리팹을 생성하고 처리합니다.
