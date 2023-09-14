@@ -41,10 +41,11 @@ public class BulletManager : MonoBehaviour
         //}
 
         bulletCounts[currentBulletType]--;
-        // 여기에서 총알 프리팹을 사용하여 발사하도록 프리팹을 생성하고 처리합니다.
+        // 여기에서 총알 프리팹을 사용하여 발사하도록 프리팹을 생성하고 처리
         GameObject bullet = Instantiate(bulletPrefabs[currentBulletType], firePoint.position, firePoint.rotation);
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
         rb.velocity = new Vector2(0, 1); // 총알을 y축 방향으로 발사 (원하는 속도로 수정)
+        //총알마다 배열 번호가 정해져있음 발사, 궤도 그리면서 쫓아가는거, 적이나 물체에 맞으면 나타나는 이펙트, 레이저건 후처리 처리하기 
 
         return true; // 총알 발사 성공
     }

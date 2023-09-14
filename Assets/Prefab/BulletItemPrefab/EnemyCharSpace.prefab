@@ -176,6 +176,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ammoCounts: 
-  bulletPrefab: {fileID: 0}
+  bulletPrefab: {fileID: 3719083433582057426, guid: 8d8a863d69ca8954781092f153fc259c, type: 3}
   bulletSpawnPoint: {fileID: 0}
   bulletSpeed: 10

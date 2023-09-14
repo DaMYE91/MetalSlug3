@@ -36,5 +36,7 @@ public class PlayerSpaceMove : MonoBehaviour
                 // 총알 발사 실패 처리 (예: 총알이 부족한 경우)
             }
         }
+
+        //애니메이션 연결 아이들, 왼쪽 오른쪽
     }
 }
